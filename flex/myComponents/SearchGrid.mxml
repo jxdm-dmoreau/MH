@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Panel xmlns:mx="http://www.adobe.com/2006/mxml" width="100%" height="100%" title="My Searchable Grid">
+<mx:Canvas width="100%" height="100%">
+<mx:Script>
+    <![CDATA[
+        import mx.controls.dataGridClasses.DataGridColumn;
+        import mx.collections.ArrayCollection;
+
+    
+        public var gridData:ArrayCollection = null;
+        private var colDataNames:Array = new Array();
+        
+        // draws the grid columns
+        public function drawGrid(cols:ArrayCollection):void{
+            var colinfo:Array = new Array();
+            var coldescriptor:ArrayCollection = cols;
+                                                    
+            for(var i:int;i<coldescriptor.length;i++){
+                var column:DataGridColumn = new DataGridColumn();
+                column.headerText = coldescriptor[i].colname;
+                column.dataField = coldescriptor[i].coldata;
+                
+                colDataNames.push(coldescriptor[i].coldata);
+                colinfo.push(column);
+                }
+                dataGrid.columns = colinfo;
+        }
+        
+        // loads the data
+        public function loadData(dataRows:ArrayCollection):void{
+            gridData = dataRows;
+            dataGrid.dataProvider = gridData;
+            setSearchFunction(searchData);
+        }
+        
+        // refreshed the dataprovider for the search
+        private function searchLog():void{
+            gridData.refresh();
+        }
+        
+        // sets the filter function to dataprovider
+        public function setSearchFunction(searchFunction:Function):void{
+            gridData.filterFunction = searchFunction;
+        }
+        
+        // fired on text change, returns the text typed
+        public function getSearchText():String{
+            return txtSearchLog.text;
+        }
+        
+        // searches the data based on simle string search
+        private function searchData(item: Object):Boolean{
+            for(var i:int=0;i<colDataNames.length;i++){
+                if(item[colDataNames[i]] != null && item[colDataNames[i]].toString().toLowerCase().indexOf(txtSearchLog.text.toLowerCase()) != -1){
+                    return true;
+                }
+            }
+        return false;
+    }    
+
+    ]]>
+</mx:Script>
+    <mx:Label x="10" y="12" text="Search"/>
+    <mx:TextInput right="10" left="67" y="10" change="searchLog()" id="txtSearchLog"/>
+    <mx:DataGrid id="dataGrid" bottom="10" top="38" right="10" left="10"/>
+</mx:Canvas>
+</mx:Panel>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute"
+	xmlns:SearchGrid="myComponents.*"
+	initialize="{initGrid()}">
+	<mx:Script>
+		<![CDATA[
+			import mx.collections.ArrayCollection;
+			import mx.rpc.events.FaultEvent;
+			import flash.net.navigateToURL;
+			import mx.controls.Alert;
+			import mx.rpc.events.ResultEvent;
+			
+			// creating an array collection with column names and mapping data
+       		public var gridColumns:ArrayCollection= new ArrayCollection([
+                        {colname:"ID",coldata:"id"},
+                        {colname:"Nom",coldata:"nom"},
+                        {colname:"Qualité",coldata:"qualite"},
+                        {colname:"Détails",coldata:"details"},
+                        {colname:"Poids",coldata:"poids"},
+                        {colname:"Prix",coldata:"prix"}
+                        ]);
+            
+
+                       
+			private function resultHandler(event:ResultEvent):void{
+				Alert.show('Donnee transfere !!!!! ');
+				//var idData:Array = new Array(RSS.lastResult.data.element.id);
+				//trace(idData); 		
+                /*var gridData:ArrayCollection = new ArrayCollection([
+            		{
+            			id:RSS.lastResult.data.element.id,
+            			nom:RSS.lastResult.data.element.nom,
+            			qualite:RSS.lastResult.data.element.qualite,
+            			details:RSS.lastResult.data.element.details,
+            			poids:RSS.lastResult.data.element.poids,
+            			prix:RSS.lastResult.data.element.prix
+            		}
+            	]);
+            	var gridData:ArrayCollection = new ArrayCollection([
+            		{
+            			id:"3739970",nom:"Torche",qualite:"",details:"ATT : +1 | DEG : +1 | Vue : +1",
+            			poids:"8",prix:"200"            		
+            		},
+            		{
+            			id:"3897385",nom:"Coutelas en os",qualite:"de Feu",details:"DEG : +2",
+            			poids:"4",prix:"99999"            		
+            		}
+            	
+            		]);*/
+            	myDataGrid.loadData(RSS.lastResult.data.element); // take data and populate grid
+			}
+
+			private function faultHandler(event:FaultEvent):void{
+				Alert.show('Fault !!!!! ');
+			}
+			
+			// method called on application initialize
+        private function initGrid():void{
+        	RSS.send();
+            myDataGrid.drawGrid(gridColumns); // take column array and draw the grid
+        }
+			
+		]]>
+	</mx:Script>
+
+	<mx:HTTPService id="RSS" url="http://www.kamikase.info/CCR/taniere/serviceXML.php" 
+		result="resultHandler(event);" 
+		fault="faultHandler(event);"
+		resultFormat="object"/>
+	
+		<mx:Canvas width="680" height="422" horizontalCenter="-3" verticalCenter="10.5">
+        	<SearchGrid:SearchGrid id="myDataGrid"/>
+    	</mx:Canvas>
+    
+
+</mx:Application>

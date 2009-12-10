@@ -1,0 +1,1785 @@
+#DEBUT GrandeTaniere 203597;-56;11;-9;18160
+2340559;0;Potion;1;Jus de Chronomètre;;TOUR : -90 min;5;0;90
+2029126;0;Armure;1;Cotte de Mailles;;ESQ : -3 | Armure : +7 | RM : +60 %;70;0;800
+2357069;0;Potion;1;Sinne Khole;;RM : +13 % | MM : -12 %;5;0;40
+2361041;0;Potion;1;Rhume en Conserve;;ATT : -2 D3 | ESQ : -2 D3 | DEG : -2 D3 | REG : -2;5;0;60
+2505291;0;Parchemin;1;Idées Confuses;;ATT : -2 D3 | TOUR : +60 min;2.5;0;50
+2545171;0;Potion;1;Dover Powa;;RM : -33 % | MM : +45 %;5;0;50
+2574272;0;Potion;1;Elixir de Longue-Vue;;Vue : +1;5;0;10
+2397191;0;Armure;1;Tunique;;ESQ : +1 | RM : +9 % | MM : +8 %;2.5;0;100
+2632681;0;Composant;1;Jambe d'un Loup-Garou de Grunph;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+2192227;0;Armure;1;Haubert de mailles;;ESQ : -4 | Armure : +9 | RM : +44 %;90;0;1000
+2868780;0;Composant;1;Langue d'un Pseudo-Dragon;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+2828939;0;Composant;1;Sang d'un Molosse Satanique;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+2813681;0;Composant;1;Ecaille d'un Anaconda des Catacombes;de Qualité Très Mauvaise [Spécial];Spécial;0.5;0;99999
+2860712;0;Composant;1;Coeur d'une Harpie;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+2696581;0;Composant;1;Langue d'un Pseudo-Dragon;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+2890847;0;Composant;1;Sang d'une Harpie;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+2777413;0;Composant;1;Sang d'un Champi-Glouton;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+2843644;0;Composant;1;Serre d'une Harpie;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+2834739;0;Composant;1;Fourrure d'un Kobold;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+1993859;0;Armure;1;Fourrures;;Armure : +2 | RM : +28 %;15;0;200
+2679641;0;Composant;1;Langue d'un Worg;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+2897453;0;Composant;1;Sang d'un Abishaii Noir;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+2891779;0;Composant;1;Cuisse d'un Goblours;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+2914121;0;Composant;1;Bulbe d'un Fungus Violet;de Qualité Mauvaise [Spécial];Spécial;0.5;0;99999
+2846226;0;Composant;1;Sang d'une Méduse;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+2911594;0;Composant;1;Tripes d'un Pseudo-Dragon;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+2817941;0;Potion;1;Rhume en Conserve;;ATT : -1 D3 | ESQ : -1 D3 | DEG : -1 D3 | REG : -1;5;0;60
+2685969;0;Composant;1;Bras Tertiaire d'un Xorn;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+2679640;0;Potion;1;PufPuff;;Vue : -1 | Effet de Zone;5;0;30
+2893419;0;Composant;1;Peau d'un Molosse Satanique;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+2895786;0;Composant;1;Cuisse d'une Erinyes;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+2884217;0;Composant;1;Venin d'un Scorpion Géant;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+2841540;0;Composant;1;Bave d'un Bondin;de Qualité Bonne [Spécial];Spécial;0.5;0;99999
+2722438;0;Composant;1;Queue d'un Behir;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+2927732;0;Composant;1;Fémur d'un Squelette;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+2942702;0;Composant;1;Bout de Griffe d'un Croquemitaine;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+2882782;0;Composant;1;Main d'un Kobold;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+2779285;0;Composant;1;Tripes d'un Slaad;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+2673024;0;Parchemin;1;Rune des Foins;;DEG : -2 D3 | Vue : -1 | PV : -2 D3;2.5;0;50
+2779284;0;Potion;1;Dover Powa;;RM : -24 % | MM : +22 %;5;0;50
+2596631;0;Composant;1;Chitine d'une Strige;de Qualité Mauvaise [Spécial];Spécial;0.5;0;99999
+2957718;0;Composant;1;Oreille d'un Gremlins;de Qualité Très Bonne [Tête];Spécial;0.5;0;99999
+2964102;0;Composant;1;Os d'un Gremlins;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+2913737;0;Armure;1;Armure de Cuir;;Armure : +2 | RM : +15 %;10;0;250
+2902160;0;Armure;1;Haubert d'écailles;;ESQ : -4 | Armure : +8 | RM : +44 %;80;0;750
+3022530;0;Armure;1;Armure de bois;;ESQ : -3 | Armure : +5 | RM : +35 %;50;0;400
+2800175;0;Armure;1;Tunique d'écailles;;ESQ : -1 | Armure : +3 | RM : +28 %;30;0;250
+2949207;0;Composant;1;Patte d'un Ankheg;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+2960306;0;Composant;1;Mandibule d'un Thri-kreen;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+3013901;0;Composant;1;Sang d'un Pseudo-Dragon;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+3062703;0;Potion;1;Elixir de Corruption;;ATT : +3 D3 | ESQ : -3 D3 | DEG : +3 D3 | REG : -3 | Vue : -3 | Armure : +3;5;0;90
+3114587;0;Composant;1;Patte d'un Scarabée Géant;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+3111671;0;Arme (2 mains);1;Espadon;;ATT : -6 | DEG : +8;40;0;350
+3111672;0;Composant;1;Bout de Griffe d'un Croquemitaine;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3109338;0;Composant;1;Carapace d'un Nécrophage;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+3152452;0;Composant;1;Griffe d'un Boggart;de Qualité Très Mauvaise [Membre];Spécial;0.5;0;99999
+3024613;0;Composant;1;Machoire Prognate d'un Incube;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+2973662;0;Composant;1;Lymphe d'une Coccicruelle;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3010100;0;Potion;1;Zet Crakdedand;;ATT : -1 D3 | ESQ : -1 D3 | Vue : -1 | PV : +2 D3;5;0;60
+2843250;0;Casque;1;Turban;;RM : +14 %;2.5;0;50
+3005306;0;Potion;1;Elixir de Longue-Vue;;Vue : +3;5;0;10
+2876589;0;Composant;1;Oeil d'une Goule;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+2504035;0;Bouclier;1;Rondache en métal;;ESQ : +1 | Armure : +2;30;0;150
+2813680;0;Casque;1;Casque en cuir;des Tortues;TOUR : +30 min | Armure : +1\+2 | RM : +7 %;5;0;99999
+2977955;0;Composant;1;Oeil d'un Abishaii Vert;de Qualité Très Bonne [Tête];Spécial;0.5;0;99999
+3010101;0;Composant;1;Tripes d'un Loup-Garou;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3001318;0;Talisman;1;Collier de dents;;DEG : +1 | TOUR : +5 min;0.5;0;50
+2910086;0;Composant;1;Jambe d'un Tigre-Garou;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3020972;0;Composant;1;Pattes d'une Nuée de Vermine;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+3007324;0;Composant;1;Mandibule d'un Thri-kreen;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+2977106;0;Composant;1;Sang d'une Erinyes;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+2879830;0;Composant;1;Oeil Primaire d'un Xorn;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+2867246;0;Composant;1;Queue d'un Abishaii Noir;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+2913473;0;Composant;1;Tripes d'un Mouch'oo Sauvage;de Qualité Bonne [Corps];Spécial;0.5;66157;0
+2371957;0;Arme (2 mains);1;Chaîne Cloutée;;ATT : -2 | ESQ : +1 | DEG : +4;35;0;250
+3014079;0;Composant;1;Mandibules d'une Nuée de Vermine;de Qualité Bonne [Spécial];Spécial;0.5;0;99999
+3001319;0;Composant;1;Chitine d'un Nécrophage;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+2909308;0;Composant;1;Ecaille d'un Lézard Géant;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+2954244;0;Composant;1;Oeil d'une Harpie;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+1340939;0;Bouclier;1;Rondache en bois;;ESQ : +1 | Armure : +1;15;0;100
+2890836;0;Composant;1;Spore d'un Fungus Géant;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+3024612;0;Armure;1;Fourrures;;Armure : +2 | RM : +18 %;15;0;200
+3123350;0;Composant;1;Tubercule d'un Tubercule Tueur;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3081514;0;Composant;1;Cervelle d'une Gorgone;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3073487;0;Composant;1;Jambe d'un Ours-Garou;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+3111630;0;Composant;1;Oeil Secondaire d'un Xorn;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+3051570;0;Composant;1;Epaule Musclée d'un Incube;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+2321524;0;Armure;1;Cuirasse d'écailles;;ESQ : -3 | Armure : +6 | RM : +38 %;60;0;400
+2845923;0;Champignon;1;Pleurote Pleureuse;Salé;Spécial;0.5;0;99999
+3059272;0;Composant;1;Peau d'un Ver Carnivore Géant;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3116512;0;Armure;1;Culotte en Cuir;;ESQ : +1;2.5;0;50
+3116513;0;Composant;1;Aile d'une Erinyes;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3042496;0;Composant;1;Queue d'un Behir;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+3078859;0;Composant;1;Tripes d'un Abishaii Vert;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+2939533;0;Composant;1;Sang d'un Abishaii Noir;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+3071563;0;Composant;1;Cervelle d'une Chimère;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+2976793;0;Composant;1;Thorax d'un Nécrophage;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+2992773;0;Composant;1;Os d'un Molosse Satanique;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+3019837;0;Composant;1;Museau d'une Bulette;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+2993210;0;Composant;1;Tripes d'un Loup-Garou;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+2983936;0;Composant;1;Aile d'une Erinyes;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+2952901;0;Composant;1;Langue Sensuelle d'une Succube;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+2917288;0;Composant;1;Fourrure d'un Worg;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+2945975;0;Composant;1;Pied Grâcieux d'une Succube;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3048656;0;Composant;1;Aile Profilée d'un Incube;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+2956338;0;Composant;1;Coeur Tendre d'une Succube;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3084880;0;Composant;1;Langue d'un Abishaii Vert;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3152884;0;Composant;1;Sang d'un Ettin;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+3062704;0;Composant;1;Griffe d'un Pseudo-Dragon;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3045572;0;Composant;1;Serre d'un Abishaii Noir;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3007516;0;Composant;1;Chitine d'un Thri-kreen;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+2981013;0;Composant;1;Dent d'un Yuan-ti;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+2989710;0;Composant;1;Oeil d'une Ombre de Roches;de Qualité Très Bonne [Tête];Spécial;0.5;0;99999
+2987890;0;Composant;1;Oeil d'une Gargouille;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+1860627;0;Bottes;1;Jambières en cuir;;Armure : +1 | RM : +9 %;10;0;100
+3017349;0;Composant;1;Antenne d'un Thri-kreen;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+3221936;0;Potion;1;Zet Crakdedand;;ATT : -2 D3 | ESQ : -2 D3 | Vue : -1 | PV : +4 D3;5;0;60
+2993046;0;Composant;1;Bras d'un Mouch'oo Sauvage;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+2987546;0;Composant;1;Estomac d'un Ver Carnivore Géant;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+3115858;0;Composant;1;Bave d'un Bondin;de Qualité Mauvaise [Spécial];Spécial;0.5;0;99999
+3073558;0;Composant;1;Coeur d'un Hurleur;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+3072232;0;Potion;1;Zet Crakdedand;;ATT : -1 D3 | ESQ : -1 D3 | Vue : -1 | PV : +2 D3;5;0;60
+3215213;0;Composant;1;Coeur d'une Sorcière;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+3072233;0;Composant;1;Bave d'une Limace Géante;de Qualité Mauvaise [Spécial];Spécial;0.5;0;99999
+3152409;0;Composant;1;Oeil d'un Thri-kreen;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+3144197;0;Composant;1;Tripes d'une Erinyes;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+3013900;0;Potion;1;Elixir de Corruption;;ATT : +5 D3 | ESQ : -5 D3 | DEG : +5 D3 | REG : -5 | Vue : -5 | Armure : +5 | RM : -8 % | MM : -6 %;5;0;90
+3199492;0;Composant;1;Langue d'une Ombre de Roches;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+2926548;0;Talisman;1;Collier de dents;;DEG : +1 | TOUR : +5 min;0.5;0;50
+3134639;0;Composant;1;Tripes d'un Loup-Garou;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3099737;0;Composant;1;Sternum d'un Squelette;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3095231;0;Composant;1;Cuisse d'un Tigre-Garou;de Qualité Très Bonne [Membre];Spécial;0.5;0;99999
+3207845;0;Composant;1;Jambe d'un Ours-Garou;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3164220;0;Composant;1;Fourrure d'un Tutoki;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+3110833;0;Potion;1;Elixir de Corruption;;ATT : +3 D3 | ESQ : -3 D3 | DEG : +3 D3 | REG : -3 | Vue : -3 | Armure : +3;5;0;90
+3131953;0;Composant;1;Main d'un Loup-Garou;de Qualité Très Mauvaise [Membre];Spécial;0.5;0;99999
+3031670;0;Arme (2 mains);1;Hallebarde;;ATT : -10 | DEG : +12;60;0;400
+1828136;0;Armure;1;Cotte de Mailles;;ESQ : -3 | Armure : +7 | RM : +45 %;70;0;800
+3194713;0;Arme (2 mains);1;Chaîne Cloutée;;ATT : -2 | ESQ : +1 | DEG : +4;35;0;250
+3243526;0;Parchemin;1;Yeu'Ki'Pic;;Vue : -3 | Effet de Zone;2.5;0;40
+3144537;0;Composant;1;Os d'un Abishaii Vert;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+3151639;0;Composant;1;Doigt d'un Ettin;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+3150417;0;Composant;1;Langue-Fouet d'un Mouch'oo Sauvage;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3036479;0;Parchemin;1;Rune des Foins;;DEG : -2 D3 | Vue : -1 | PV : -2 D3;2.5;0;50
+2931071;0;Potion;1;Sang de Toh Réroh;;ATT : +2 D3 | ESQ : +2 D3;5;0;75
+3136041;0;Parchemin;1;Rune des Foins;;DEG : -2 D3 | Vue : -1 | PV : -2 D3;2.5;0;50
+3158824;0;Composant;1;Sang d'un Rocketeux;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+3152408;0;Potion;1;Elixir de Corruption;;ATT : +3 D3 | ESQ : -3 D3 | DEG : +3 D3 | REG : -3 | Vue : -3 | Armure : +3;5;0;90
+2058264;0;Armure;1;Armure de bois;;ESQ : -3 | Armure : +5 | RM : +35 %;50;0;400
+3254727;0;Composant;1;Oeil d'une Gargouille;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+3254726;0;Parchemin;1;Traité de Clairvoyance;;Vue : +3 | TOUR : -90 min;2.5;0;70
+2311961;0;Bottes;1;Jambières en os;;ESQ : -1 | Armure : +2 | RM : +6 %;10;0;150
+3178266;0;Potion;1;Zet Crakdedand;;ATT : -1 D3 | ESQ : -1 D3 | Vue : -1 | PV : +2 D3;5;0;60
+3178267;0;Composant;1;Cuisse d'un Minotaure;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3066485;0;Potion;1;Dover Powa;;RM : -14 % | MM : +15 %;5;0;50
+3258756;0;Parchemin;1;Idées Confuses;;ATT : -2 D3 | TOUR : +60 min;2.5;0;50
+2954243;0;Arme (2 mains);1;Espadon;;ATT : -6 | DEG : +8;40;0;350
+3193493;0;Composant;1;Aile d'un Abishaii Bleu;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+2565406;0;Armure;1;Armure de bois;de Feu;ESQ : -3 | DEG : +0\+1 | Armure : +5 | RM : +38 %;50;0;99999
+3305209;0;Composant;1;Entrailles Séchées d'une Momie;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+2421004;0;Armure;1;Cuirasse d'écailles;;ESQ : -3 | Armure : +6 | RM : +63 %;60;0;400
+2600759;0;Composant;1;Sang d'un Kobold;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+2555388;0;Composant;1;Trompe d'une Strige;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+2625501;0;Composant;1;Coeur d'un Kobold;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+2491883;0;Potion;1;Elixir de Longue-Vue;;Vue : +2;5;0;40
+2422464;0;Composant;1;Dard d'une Araignée Géante;de Qualité Mauvaise [Spécial];Spécial;0.5;0;99999
+3115084;0;Champignon;1;Horreur Des Prés;Acide;Spécial;0.5;0;99999
+3115083;0;Champignon;1;Horreur Des Prés;Salé;Spécial;0.5;0;99999
+3282139;0;Composant;1;Oeil Rougeoyant d'un Crasc;de Qualité Bonne [Spécial];Spécial;0.5;0;99999
+3296511;0;Potion;1;Sortilège usage unique : Explosion;;Spécial;5;0;99999
+3125166;0;Composant;1;Oeil d'une Chimère;de Qualité Très Bonne [Tête];Spécial;0.5;0;99999
+2833991;0;Talisman;1;Collier de dents;;DEG : +1 | TOUR : +5 min;0.5;0;50
+2813746;0;Armure;1;Cuirasse d'écailles;;ESQ : -3 | Armure : +6 | RM : +66 %;60;0;400
+3301399;0;Arme (2 mains);1;Chaîne Cloutée;;ATT : -2 | ESQ : +1 | DEG : +4;35;0;250
+3298891;0;Potion;1;Sinne Khole;;RM : +42 % | MM : -60 %;5;0;40
+3301400;0;Composant;1;Dent d'un Géant des Gouffres;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+3298892;0;Composant;1;Coeur d'une Chimère;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3188868;0;Composant;1;Langue d'un Loup-Garou;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+2698592;0;Minerai;1;Woeepaah Taillé (taille 2);de Qualité Médiocre;Spécial;0.5;0;99999
+2702316;0;Minerai;1;Woeepaah Taillé (taille 2);de Qualité Médiocre;Spécial;0.5;0;99999
+1285077;0;Bouclier;1;Rondache en bois;;ESQ : +1 | Armure : +1;15;0;100
+3216795;0;Composant;1;Corde Vocale d'un Hurleur;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+3056414;0;Composant;1;Antenne d'un Mille-Pattes Géant;de Qualité Très Mauvaise [Spécial];Spécial;0.5;0;99999
+1916418;0;Bouclier;1;Targe;;ESQ : +1;5;0;50
+3319516;0;Composant;1;Tripes d'un Bondin;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+2552690;0;Armure;1;Armure de peaux;;ESQ : -2 | Armure : +4 | RM : +57 %;45;0;400
+3184426;0;Bottes;1;Jambières en maille;des Tortues;ESQ : -1 | TOUR : +30 min | Armure : +3\+2 | RM : +6 %;20;0;99999
+3388479;0;Composant;1;Spore d'un Fungus Violet;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+3369043;0;Composant;1;Pétale d'une Plante Carnivore;de Qualité Mauvaise [Spécial];Spécial;0.5;0;99999
+3183732;0;Armure;1;Tunique d'écailles;;ESQ : -1 | Armure : +3 | RM : +27 %;30;0;250
+3387237;0;Armure;1;Armure de bois;;ESQ : -3 | Armure : +5 | RM : +42 %;50;0;400
+3388478;0;Potion;1;Métomol;;TOUR : -20 min | Armure : -4;5;0;50
+2977939;0;Bouclier;1;Rondache en bois;;ESQ : +1 | Armure : +1;15;0;100
+3237636;0;Composant;1;Doigt d'un Ettin;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+1065446;0;Armure;1;Tunique d'écailles;;ESQ : -1 | Armure : +3 | RM : +22 %;30;0;250
+3101695;0;Composant;1;Oeil d'un Loup-Garou;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3199491;0;Potion;1;Métomol;;TOUR : -20 min | Armure : -4;5;0;50
+3358587;0;Arme (2 mains);1;Hache à deux mains d'Obsidienne;;ATT : -8 | DEG : +16 | REG : -4 | RM : -86 % | MM : -20 %;75;0;600
+3384688;0;Composant;1;Patte d'une Strige;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3461080;0;Composant;1;Os d'un Gremlins;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3457799;0;Composant;1;Os d'un Gremlins;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+3466774;0;Armure;1;Fourrures;;Armure : +2 | RM : +20 %;15;0;200
+584189;0;Talisman;1;Gorgeron en cuir;;Armure : +1;2.5;0;75
+3260102;0;Composant;1;Patte d'un Mille-Pattes Géant;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+3260101;0;Parchemin;1;Traité de Clairvoyance;;Vue : +1 | TOUR : -30 min;2.5;0;70
+3146764;0;Casque;1;Casque en métal;;Vue : -1 | Armure : +2 | RM : +6 %;10;0;200
+3509577;0;Armure;1;Armure de peaux;;ESQ : -2 | Armure : +4 | RM : +42 %;45;0;400
+3381067;0;Talisman;1;Gorgeron en métal;;REG : -1 | Armure : +2;5;0;100
+3455990;0;Casque;1;Casque en métal;;Vue : -1 | Armure : +2 | RM : +7 %;10;0;200
+3393266;0;Bottes;1;Jambières en os;;ESQ : -1 | Armure : +2 | RM : +6 %;10;0;150
+3514195;0;Potion;1;PufPuff;;Vue : -1 | Effet de Zone;5;0;30
+3516167;0;Armure;1;Armure de bois;;ESQ : -3 | Armure : +5 | RM : +35 %;50;0;400
+3512676;0;Armure;1;Armure de peaux;des Tortues;ESQ : -2 | TOUR : +30 min | Armure : +4\+2 | RM : +48 %;45;0;99999
+3544390;0;Champignon;1;Suinte Cadavre;Salé;Spécial;0.5;0;99999
+3544391;0;Champignon;1;Suinte Cadavre;Sucré;Spécial;0.5;0;99999
+3454752;0;Minerai;1;Obsidienne (taille 1);de Qualité Médiocre;Spécial;0.5;0;99999
+3546175;0;Champignon;1;Suinte Cadavre;Sucré;Spécial;0.5;0;99999
+3545507;0;Champignon;1;Suinte Cadavre;Salé;Spécial;0.5;0;99999
+3479694;0;Composant;1;Langue d'un Ogre;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3546365;0;Champignon;1;Suinte Cadavre;Acide;Spécial;0.5;0;99999
+3546371;0;Champignon;1;Suinte Cadavre;Salé;Spécial;0.5;0;99999
+3546367;0;Champignon;1;Suinte Cadavre;Salé;Spécial;0.5;0;99999
+3543044;0;Champignon;1;Suinte Cadavre;Salé;Spécial;0.5;0;99999
+3409753;0;Composant;1;Venin d'un Anaconda des Catacombes;de Qualité Bonne [Spécial];Spécial;0.5;0;99999
+3545503;0;Champignon;1;Suinte Cadavre;Salé;Spécial;0.5;0;99999
+3545508;0;Champignon;1;Suinte Cadavre;Salé;Spécial;0.5;0;99999
+3545511;0;Champignon;1;Suinte Cadavre;Salé;Spécial;0.5;0;99999
+3398948;0;Composant;1;Os d'un Kobold;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3346566;0;Potion;1;Dover Powa;;RM : -38 % | MM : +32 %;5;0;50
+3516750;0;Potion;1;Sang de Toh Réroh;;ATT : +1 D3 | ESQ : +1 D3;5;0;50
+3408401;0;Potion;1;Métomol;;TOUR : -20 min | Armure : -4;5;0;50
+1091297;0;Arme (2 mains);1;Hallebarde;;ATT : -10 | DEG : +12;60;0;400
+1783957;0;Talisman;1;Gorgeron en cuir;;Armure : +1;2.5;0;75
+124571;0;Armure;1;Tunique d'écailles;;ESQ : -1 | Armure : +3 | RM : +24 %;30;0;250
+3101694;0;Bottes;1;Jambières en cuir;;Armure : +1 | RM : +8 %;10;0;100
+2960378;0;Armure;1;Fourrures;;Armure : +2 | RM : +21 %;15;0;200
+3431005;0;Composant;1;Cuisse d'un Ours-Garou;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+3512332;0;Potion;1;Elixir de Corruption;;ATT : +3 D3 | ESQ : -3 D3 | DEG : +3 D3 | REG : -3 | Vue : -3 | Armure : +3;5;0;90
+3530538;0;Potion;1;Elixir de Longue-Vue;;Vue : +1;5;0;10
+3374024;0;Potion;1;Métomol;;TOUR : -40 min | Armure : -8;5;0;80
+3404069;0;Composant;1;Griffe d'un Nécrophage;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3294636;0;Potion;1;Elixir de Bonne Bouffe;;DEG : +3 D3 | REG : +3;5;0;55
+3565820;0;Composant;1;Mandibule d'un Thri-kreen;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+3436295;0;Composant;1;Oeil d'un Molosse Satanique;de Qualité Très Bonne [Tête];Spécial;0.5;0;99999
+3454533;0;Potion;1;Dover Powa;;RM : -36 % | MM : +28 %;5;0;50
+3405081;0;Composant;1;Sang d'un Homme-Lézard;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+3408402;0;Composant;1;Chitine d'un Thri-kreen;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+3565819;0;Potion;1;Métomol;;TOUR : -50 min | Armure : -10;5;0;90
+3536826;0;Potion;1;Elixir de Feu;;ESQ : +3 D3 | Vue : +3;5;0;50
+3399392;0;Composant;1;Patte d'un Molosse Satanique;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+3490589;0;Composant;1;Tripes d'un Bondin;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+3451350;0;Composant;1;Tripes d'un Yuan-ti;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+3283086;0;Composant;1;Cuir d'un Crasc;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3296512;0;Composant;1;Pattes d'une Nuée de Vermine;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3463101;0;Composant;1;Tête d'un Naga;de Qualité Très Bonne [Tête];Spécial;0.5;0;99999
+3345487;0;Composant;1;Patte d'un Ankheg;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3294637;0;Composant;1;Antenne d'un Mille-Pattes Géant;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+2283483;0;Bouclier;1;Rondache en bois;;ESQ : +1 | Armure : +1;15;0;100
+3439639;0;Composant;1;Os d'un Loup-Garou;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+3583967;0;Armure;1;Cotte de Mailles;;ESQ : -3 | Armure : +7 | RM : +51 %;70;0;800
+3564524;0;Potion;1;Elixir de Corruption;;ATT : +4 D3 | ESQ : -4 D3 | DEG : +4 D3 | REG : -4 | Vue : -4 | Armure : +4 | RM : -10 % | MM : -10 %;5;0;90
+3449614;0;Composant;1;Tripes d'un Géant de Pierre;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3455991;0;Composant;1;Poil d'une Ombre de Roches;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+3449613;0;Potion;1;Zet Crakdedand;;ATT : -1 D3 | ESQ : -1 D3 | Vue : -1 | PV : +2 D3;5;0;60
+3557483;0;Composant;1;Griffe d'un Loup-Garou;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+2268171;0;Casque;1;Casque en métal;;Vue : -1 | Armure : +2 | RM : +7 %;10;0;200
+3442921;0;Composant;1;Coeur d'une Ombre de Roches;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+3460559;0;Composant;1;Oeil d'un Naga;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+3565221;0;Composant;1;Os d'un Kobold;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3553496;0;Composant;1;Jambe d'un Loup-Garou;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3401935;0;Potion;1;Rhume en Conserve;;ATT : -1 D3 | ESQ : -1 D3 | DEG : -1 D3 | REG : -1;5;0;60
+3530540;0;Composant;1;Oeil d'un Lézard Géant;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+3539580;0;Composant;1;Cervelle d'un Lézard Géant;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+3565220;0;Potion;1;Sinne Khole;;RM : +28 % | MM : -32 %;5;0;40
+3573887;0;Composant;1;Jambe d'une Erinyes;de Qualité Très Mauvaise [Membre];Spécial;0.5;0;99999
+3340360;0;Carte;1;Carte des Raccourcis :;Grotte;Spécial;2.5;0;99999
+3573886;0;Potion;1;Zet Crakdedand;;ATT : -3 D3 | ESQ : -3 D3 | Vue : -1 | PV : +6 D3;5;0;60
+3539579;0;Potion;1;Jus de Chronomètre;;TOUR : -30 min;5;0;30
+3514196;0;Composant;1;Carapace d'un Thri-kreen;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+3511097;0;Composant;1;Peau d'un Bondin;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3424774;0;Composant;1;Oeil d'un Thri-kreen;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+2058484;0;Potion;1;Zet Crakdedand;;ATT : -2 D3 | ESQ : -2 D3 | Vue : -1 | PV : +4 D3;5;0;60
+3401718;0;Composant;1;Oeil d'un Thri-kreen;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3484651;0;Composant;1;Sang d'un Ettin;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3556248;0;Composant;1;Ecaille d'un Basilisk;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3516168;0;Composant;1;Croc d'un Tigre-Garou;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+2159282;0;Composant;1;Langue d'un Yéti;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+3595083;0;Composant;1;Dent d'un Abishaii Vert;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3448951;0;Composant;1;Griffe d'une Chimère;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+3463046;0;Composant;1;Cuisse d'un Loup-Garou;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3358588;0;Composant;1;Doigt d'un Tigre-Garou;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+3454534;0;Composant;1;Poil d'une Ombre de Roches;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+3525577;0;Composant;1;Langue-Fouet d'un Mouch'oo Sauvage;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3561024;0;Composant;1;Oeil d'un Hurleur;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+3548199;0;Composant;1;Oeil d'un Lézard Géant;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+3454469;0;Composant;1;Os d'un Abishaii Noir;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3564525;0;Composant;1;Tête d'un Sagouin;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+3426359;0;Composant;1;Aile d'un Abishaii Noir;de Qualité Très Bonne [Membre];Spécial;0.5;0;99999
+3629882;0;Composant;1;Oeil d'un Rocketeux;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3629881;0;Potion;1;PufPuff;;ATT : -1 D3 | ESQ : -1 D3 | Vue : -2 | Effet de Zone;5;0;50
+3644098;0;Composant;1;Tripes d'une Cockatrice;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+3641599;0;Armure;1;Tunique d'écailles;;ESQ : -1 | Armure : +3 | RM : +30 %;30;0;250
+3632234;0;Composant;1;Oeil d'un Thri-kreen;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+3627456;0;Potion;1;Elixir de Corruption;;ATT : +4 D3 | ESQ : -4 D3 | DEG : +4 D3 | REG : -4 | Vue : -4 | Armure : +4 | RM : -9 % | MM : -10 %;5;0;90
+3632233;0;Armure;1;Armure de peaux;;ESQ : -2 | Armure : +4 | RM : +45 %;45;0;400
+3627457;0;Composant;1;Phalange d'un Squelette;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+3611011;0;Potion;1;Sortilège usage unique : Sacrifice;;Spécial;5;0;99999
+3613203;0;Composant;1;Aile d'une Strige;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3619101;0;Composant;1;Patte d'un Thri-kreen;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+3598940;0;Composant;1;Aile d'une Erinyes;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+3572554;0;Composant;1;Sang d'un Homme-Lézard;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+3620775;0;Composant;1;Tripes d'un Basilisk;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+3623051;0;Composant;1;Oeil d'un Hellrot;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3686159;0;Potion;1;PufPuff;;ATT : -1 D3 | ESQ : -1 D3 | Vue : -2 | Effet de Zone;5;0;50
+3641327;0;Composant;1;Oeil d'un Thri-kreen;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3686160;0;Composant;1;Tripes d'un Loup-Garou;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3670306;0;Composant;1;Jambe d'un Ettin;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+2456568;0;Casque;1;Casque en métal;;Vue : -1 | Armure : +2 | RM : +7 %;10;0;200
+3613034;0;Composant;1;Cervelle d'un Tigre-Garou;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3610160;0;Composant;1;Main d'un Yéti;de Qualité Très Bonne [Membre];Spécial;0.5;0;99999
+3690154;0;Composant;1;Patte d'un Bondin;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+3662324;0;Potion;1;Elixir de Feu;;ESQ : +3 D3 | Vue : +3;5;0;50
+3662325;0;Composant;1;Queue d'une Gorgone;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+3620478;0;Composant;1;Oeil d'un Tigre-Garou;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+3667420;0;Anneau;1;Anneau de Protection contre <b>Regard Magique</b>;;Protection;8.5;0;99999
+3679373;0;Armure;1;Pagne en Cuir;;ESQ : +2 | Armure : -1;5;0;100
+3048783;0;Armure;1;Cuirasse d'écailles;;ESQ : -3 | Armure : +6 | RM : +52 %;60;0;400
+3620774;0;Arme (2 mains);1;Espadon;;ATT : -6 | DEG : +8;40;0;350
+3674000;0;Arme (2 mains);1;Hache de guerre en os;;ATT : -4 | DEG : +6;25;0;300
+3623050;0;Parchemin;1;Rune des Foins;;DEG : -2 D3 | Vue : -1 | PV : -2 D3;2.5;0;50
+3432797;0;Armure;1;Armure de bois;;ESQ : -3 | Armure : +5 | RM : +42 %;50;0;400
+3630218;0;Composant;1;Tripes d'un Xorn;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3682412;0;Talisman;1;Collier de dents;;DEG : +1 | TOUR : +5 min;0.5;0;50
+3550779;0;Arme (2 mains);1;Espadon;;ATT : -6 | DEG : +8;40;0;350
+2361723;0;Casque;1;Casque en cuir;;Armure : +1 | RM : +8 %;5;0;150
+3731311;0;Arme (2 mains);1;Bâtons de Parade;des Cyclopes;ATT : -4\+1 | ESQ : +2 | DEG : +0\+1 | Vue : -1 | Armure : +2;7.5;0;99999
+3409772;0;Composant;1;Langue d'un Behemoth;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+3332824;0;Composant;1;Sang d'un Gremlins;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+1628514;0;Potion;1;Sinne Khole;;RM : +11 % | MM : -16 %;5;0;40
+3334530;0;Composant;1;Griffe d'un Gremlins;de Qualité Très Bonne [Membre];Spécial;0.5;0;99999
+3673098;0;Composant;1;Bave d'un Bondin;de Qualité Bonne [Spécial];Spécial;0.5;0;99999
+3112330;0;Composant;1;Chitine d'une Strige;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+3663390;0;Composant;1;Chitine d'un Nuage d'Insectes;de Qualité Très Mauvaise [Spécial];Spécial;0.5;0;99999
+1596943;0;Potion;1;Sinne Khole;;RM : +38 % | MM : -30 %;5;0;50
+2195359;0;Potion;1;Sinne Khole;;RM : +20 % | MM : -15 %;5;0;40
+3292036;0;Composant;1;Dent d'un Homme-Lézard;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+2817570;0;Potion;1;Sinne Khole;;RM : +24 % | MM : -26 %;5;0;40
+3663389;0;Potion;1;PufPuff;;Vue : -1 | Effet de Zone;5;0;30
+3688606;0;Composant;1;Mandibule d'un Nécrophage;de Qualité Mauvaise [Spécial];Spécial;0.5;0;99999
+1239084;0;Talisman;1;Collier de dents;;DEG : +1 | TOUR : +5 min;0.5;0;50
+3717998;0;Composant;1;Venin d'un Ankheg;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+3376490;0;Bottes;1;Jambières en os;;ESQ : -1 | Armure : +2 | RM : +8 %;10;0;150
+3398947;0;Talisman;1;Collier à Pointes;;ESQ : -1 | DEG : +1 | Armure : +1;2.5;0;100
+3779510;0;Champignon;1;Suinte Cadavre;Salé;Spécial;0.5;0;99999
+3662878;0;Composant;1;Bave d'une Limace Géante;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+3759909;0;Potion;1;Elixir de Corruption;;ATT : +6 D3 | ESQ : -6 D3 | DEG : +6 D3 | REG : -6 | Vue : -6 | Armure : +6 | RM : -18 % | MM : -16 %;5;0;90
+3759910;0;Composant;1;Sang d'un Shai;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+3713893;0;Potion;1;Extrait de DjhinTonik;;DEG : +1 D3 | REG : +1 | PV : +2 D3;5;0;50
+3615106;0;Potion;1;Elixir de Longue-Vue;;Vue : +1;5;0;10
+3701602;0;Composant;1;Ailes d'un Nuage d'Insectes;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3726683;0;Potion;1;Dover Powa;;RM : -44 % | MM : +56 %;5;0;50
+3713894;0;Composant;1;Oeil d'un Abishaii Vert;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3717813;0;Composant;1;Doigt d'un Tutoki;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3700131;0;Composant;1;Croc d'un Kobold;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3724499;0;Composant;1;Tête d'un Croquemitaine;de Qualité Très Bonne [Tête];Spécial;0.5;0;99999
+3739970;0;Arme (1 main);1;Torche;;ATT : +1 | DEG : +1 | Vue : +1;7.5;0;300
+3739971;0;Composant;1;Patte d'un Thri-kreen;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3604173;0;Composant;1;Patte d'une Strige;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+3732755;0;Composant;1;Cervelle d'un Hurleur;de Qualité Très Bonne [Tête];Spécial;0.5;0;99999
+3732751;0;Composant;1;Coeur d'un Ettin;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3769680;0;Potion;1;Sang de Toh Réroh;;ATT : +2 D3 | ESQ : +2 D3;5;0;75
+3671857;0;Composant;1;Dent d'un Minotaure;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+3761829;0;Composant;1;Cervelle d'un Shai;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+3688725;0;Composant;1;Griffe d'un Naga;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3704253;0;Armure;1;Cuir Bouilli;;ESQ : -1 | Armure : +3 | RM : +26 %;17.5;0;300
+2372466;0;Armure;1;Armure d'Anneaux;;ESQ : -8 | Armure : +8 | RM : +135 %;80;0;900
+3675556;0;Potion;1;Métomol;;TOUR : -10 min | Armure : -2;5;0;25
+3688724;0;Potion;1;Sang de Toh Réroh;;ATT : +1 D3 | ESQ : +1 D3;5;0;50
+3787369;0;Composant;1;Queue d'une Cockatrice;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3709559;0;Composant;1;Chapeau d'un Champi-Glouton;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+3676365;0;Composant;1;Oeil d'un Abishaii Vert;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+3563126;0;Potion;1;Métomol;;TOUR : -10 min | Armure : -2;5;0;25
+3645855;0;Composant;1;Tripes d'un Carnosaure;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3719538;0;Composant;1;Mandibule d'une Coccicruelle;de Qualité Bonne [Spécial];Spécial;0.5;0;99999
+3724367;0;Potion;1;Jus de Chronomètre;;TOUR : -30 min;5;0;30
+3770692;0;Composant;1;Oeil d'une Coccicruelle;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3704254;0;Composant;1;Antenne d'un Thri-kreen;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3694973;0;Composant;1;Patte d'un Bondin;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3788719;0;Composant;1;Chapeau d'un Champi-Glouton;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+3708409;0;Composant;1;Cheveu Fin d'un Incube;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3668770;0;Composant;1;Antenne d'un Thri-kreen;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+3788718;0;Potion;1;Métomol;;TOUR : -10 min | Armure : -2;5;0;25
+3703347;0;Composant;1;Patte d'une Cockatrice;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3652578;0;Composant;1;Gueule d'un Molosse Satanique;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+3675558;0;Composant;1;Cervelle d'un Orque;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+3735300;0;Composant;1;Tibia d'un Squelette;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+3752611;0;Champignon;1;Fungus Rampant;Salé;Spécial;0.5;0;99999
+3749926;0;Potion;1;Sang de Toh Réroh;;ATT : +1 D3 | ESQ : +1 D3;5;0;50
+3800603;0;Composant;1;Tibia d'un Squelette;de Qualité Très Bonne [Membre];Spécial;0.5;0;99999
+3804104;0;Composant;1;Tripes d'un Hurleur;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+3811098;0;Potion;1;PufPuff;;ATT : -1 D3 | ESQ : -1 D3 | Vue : -2 | Effet de Zone;5;0;50
+2322939;0;Armure;1;Tunique d'écailles;;ESQ : -1 | Armure : +3 | RM : +26 %;30;0;250
+3671221;0;Potion;1;Sinne Khole;;RM : +51 % | MM : -42 %;5;0;40
+2205630;0;Casque;1;Casque en métal;;Vue : -1 | Armure : +2 | RM : +9 %;10;0;200
+486582;0;Talisman;1;Gorgeron en cuir;;Armure : +1;2.5;0;75
+3761560;0;Arme (2 mains);1;Espadon;;ATT : -6 | DEG : +8;40;0;350
+3699642;0;Armure;1;Tunique d'écailles;;ESQ : -1 | Armure : +3 | RM : +24 %;30;0;250
+3068672;0;Composant;1;Antenne d'un Thri-kreen;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+3193024;0;Composant;1;Croc d'un Basilisk;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+3249405;0;Composant;1;Spore d'un Fungus Géant;de Qualité Mauvaise [Spécial];Spécial;0.5;0;99999
+3793148;0;Composant;1;Oeil d'un Yéti;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+3545066;0;Champignon;1;Suinte Cadavre;Salé;Spécial;0.5;0;99999
+3104052;0;Composant;1;Ailes d'un Nuage d'Insectes;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3208042;0;Composant;1;Oeil d'un Kobold;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+2919842;0;Composant;1;Aile d'une Strige;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3236877;0;Composant;1;Dent d'un Orque;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+3102190;0;Composant;1;Oeil d'un Yuan-ti;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3543181;0;Champignon;1;Suinte Cadavre;Sucré;Spécial;0.5;0;99999
+3545067;0;Champignon;1;Suinte Cadavre;Mielleux;Spécial;0.5;0;99999
+3091153;0;Composant;1;Doigt d'un Tigre-Garou;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3543180;0;Champignon;1;Suinte Cadavre;Salé;Spécial;0.5;0;99999
+3164851;0;Composant;1;Os d'un Yéti;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+3545064;0;Champignon;1;Suinte Cadavre;Salé;Spécial;0.5;0;99999
+3186744;0;Composant;1;Griffe d'un Orque;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3632297;0;Composant;1;Coeur d'un Géant de Pierre;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+3685306;0;Composant;1;Tripes d'un Hurleur;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3683832;0;Potion;1;Métomol;;TOUR : -20 min | Armure : -4;5;0;50
+3525840;0;Composant;1;Chitine d'une Nuée de Vermine;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+3685334;0;Potion;1;Métomol;;TOUR : -20 min | Armure : -4;5;0;50
+3667421;0;Composant;1;Crâne d'une Banshee;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+3673919;0;Composant;1;Sang d'un Shai;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+3685337;0;Composant;1;Griffe d'un Yuan-ti;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+3674001;0;Composant;1;Tripes d'un Shai;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+3685304;0;Composant;1;Oeil d'un Abishaii Vert;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+3284931;0;Composant;1;Coeur d'une Cockatrice;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3811099;0;Composant;1;Jambe d'un Kobold;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+3759075;0;Potion;1;Elixir de Corruption;;ATT : +3 D3 | ESQ : -3 D3 | DEG : +3 D3 | REG : -3 | Vue : -3 | Armure : +3;5;0;90
+2221588;0;Talisman;1;Collier de dents;;DEG : +1 | TOUR : +5 min;0.5;0;50
+3251671;0;Potion;1;Rhume en Conserve;;ATT : -1 D3 | ESQ : -1 D3 | DEG : -1 D3 | REG : -1;5;0;60
+1495803;0;Armure;1;Cotte de Mailles;;ESQ : -3 | Armure : +7 | RM : +57 %;70;0;800
+3781205;0;Composant;1;Tête d'un Rat Géant;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3794949;0;Composant;1;Poil d'un Rat Géant;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3804117;0;Potion;1;Rhume en Conserve;;ATT : -1 D3 | ESQ : -1 D3 | DEG : -1 D3 | REG : -1;5;0;60
+3804118;0;Composant;1;Main d'un Goblin;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+3701255;0;Composant;1;Coeur d'un Hurleur;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3685318;0;Composant;1;Crâne d'un Ogre;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+3753777;0;Composant;1;Carapace d'une Coccicruelle;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+3750716;0;Composant;1;Sang d'un Glouton;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+3749588;0;Composant;1;Langue d'un Abishaii Bleu;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3751332;0;Composant;1;Langue d'un Ettin;de Qualité Très Bonne [Tête];Spécial;0.5;0;99999
+3810083;0;Composant;1;Cervelle d'un Titan;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+3775291;0;Composant;1;Sang d'un Abishaii Vert;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+3594541;0;Composant;1;Cervelle d'un Carnosaure;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+3821156;0;Composant;1;Tripes d'un Shai;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+3720608;0;Composant;1;Sang d'un Shai;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+3730409;0;Composant;1;Cuisse d'un Géant de Pierre;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3396022;0;Composant;1;Os d'un Gremlins;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+3401305;0;Composant;1;Sternum d'un Squelette;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+2969570;0;Potion;1;Sinne Khole;;RM : +11 % | MM : -18 %;5;0;40
+2983078;0;Potion;1;Elixir de Corruption;;ATT : +3 D3 | ESQ : -3 D3 | DEG : +3 D3 | REG : -3 | Vue : -3 | Armure : +3;5;0;90
+3199515;0;Armure;1;Tunique d'écailles;;ESQ : -1 | Armure : +3 | RM : +30 %;30;0;250
+3043342;0;Armure;1;Cuirasse d'écailles;;ESQ : -3 | Armure : +6 | RM : +56 %;60;0;400
+3390995;0;Composant;1;Coeur d'un Gremlins;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+3396442;0;Potion;1;Dover Powa;;RM : -20 % | MM : +14 %;5;0;50
+3396443;0;Composant;1;Dent d'un Gremlins;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3012757;0;Composant;1;Langue d'un Goblin;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+861115;0;Bouclier;1;Rondache en bois;;ESQ : +1 | Armure : +1;15;0;100
+3779513;0;Champignon;1;Suinte Cadavre;Salé;Spécial;0.5;0;99999
+3877430;0;Composant;1;Sang d'un Abishaii Vert;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+3460558;0;Potion;1;PufPuff;;Vue : -1 | Effet de Zone;5;0;30
+3725524;0;Potion;1;Elixir de Longue-Vue;;Vue : +2;5;0;10
+3705425;0;Champignon;1;Cèpe Lumineux;Mielleux;Spécial;0.5;0;99999
+3667381;0;Potion;1;Zet Crakdedand;;ATT : -1 D3 | ESQ : -1 D3 | Vue : -1 | PV : +2 D3;5;0;60
+3705416;0;Champignon;1;Cèpe Lumineux;Mielleux;Spécial;0.5;0;99999
+3812017;0;Potion;1;Elixir de Fertilité;;ATT : +3 D3 | DEG : +3 D3;5;0;50
+3878811;0;Composant;1;Oeil d'une Goule;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+3878465;0;Composant;1;Oeil d'une Strige;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+3878464;0;Armure;1;Fourrures;;Armure : +2 | RM : +30 %;15;0;200
+3867070;0;Composant;1;Sang d'un Tutoki;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+2604099;0;Armure;1;Haubert de mailles;;ESQ : -4 | Armure : +9 | RM : +64 %;90;0;1000
+3819274;0;Composant;1;Chitine d'une Nuée de Vermine;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+3725525;0;Composant;1;Peau d'une Chimère;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+3800445;0;Composant;1;Oeil d'un Goblours;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+3892734;0;Composant;1;Cou d'un Shai;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+3894421;0;Composant;1;Bec d'une Banshee;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+3895931;0;Composant;1;Thorax d'une Coccicruelle;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+1599712;0;Armure;1;Armure de peaux;;ESQ : -2 | Armure : +4 | RM : +51 %;45;0;400
+2035346;0;Bouclier;1;Rondache en bois;;ESQ : +1 | Armure : +1;15;0;100
+1944178;0;Armure;1;Armure de Cuir;;Armure : +2 | RM : +20 %;10;0;250
+3886864;0;Composant;1;Mandibule d'une Strige;de Qualité Très Bonne [Tête];Spécial;0.5;0;99999
+3875060;0;Composant;1;Doigt d'une Goule;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+3850050;0;Composant;1;Dent d'un Glouton;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+3741902;0;Composant;1;Bout de Griffe d'un Croquemitaine;de Qualité Très Mauvaise [Membre];Spécial;0.5;0;99999
+3874367;0;Composant;1;Oeil d'un Géant des Gouffres;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3857722;0;Composant;1;Viscères d'un Crasc Médius;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3882458;0;Composant;1;Aile d'un Abishaii Noir;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+3648123;0;Parchemin;1;Rune des Foins;;DEG : -2 D3 | Vue : -1 | PV : -2 D3;2.5;0;50
+2960706;0;Potion;1;PufPuff;;Vue : -1 | Effet de Zone;5;0;30
+3773958;0;Potion;1;Rhume en Conserve;;ATT : -1 D3 | ESQ : -1 D3 | DEG : -1 D3 | REG : -1;5;0;60
+3401663;0;Potion;1;Elixir de Fertilité;;ATT : +3 D3 | DEG : +3 D3;5;0;50
+3704731;0;Parchemin;1;Rune des Foins;;DEG : -3 D3 | Vue : -1 | PV : -4 D3;2.5;0;50
+3751196;0;Potion;1;Elixir de Bonne Bouffe;;DEG : +3 D3 | REG : +3;5;0;55
+1604188;0;Armure;1;Armure de Cuir;;Armure : +2 | RM : +20 %;10;0;250
+2784595;0;Potion;1;Dover Powa;;RM : -14 % | MM : +14 %;5;0;50
+2780725;0;Parchemin;1;Yeu'Ki'Pic;;Vue : -3 | Effet de Zone;2.5;0;40
+3417592;0;Potion;1;Elixir de Corruption;;ATT : +5 D3 | ESQ : -5 D3 | DEG : +5 D3 | REG : -5 | Vue : -5 | Armure : +5 | RM : -10 % | MM : -8 %;5;0;200
+3231573;0;Potion;1;Métomol;;TOUR : -10 min | Armure : -2;5;0;25
+3918383;0;Composant;1;Oeil d'une Strige;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3874959;0;Composant;1;Cuisse d'un Rocketeux;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3859520;0;Composant;1;Langue d'un Gremlins;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+1929211;0;Armure;1;Fourrures;;Armure : +2 | RM : +28 %;15;0;200
+1910886;0;Potion;1;Elixir de Corruption;;ATT : +4 D3 | ESQ : -4 D3 | DEG : +4 D3 | REG : -4 | Vue : -4 | Armure : +4 | RM : -7 % | MM : -6 %;5;0;90
+1969006;0;Composant;1;Chair Décomposée d'un Zombie;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+1905409;0;Arme (2 mains);1;Chaîne Cloutée;;ATT : -2 | ESQ : +1 | DEG : +4;35;0;250
+2017216;0;Armure;1;Armure de bois;;ESQ : -3 | Armure : +5 | RM : +28 %;50;0;400
+2384990;0;Arme (2 mains);1;Chaîne Cloutée;;ATT : -2 | ESQ : +1 | DEG : +4;35;0;250
+3840194;0;Champignon;1;Fungus Rampant;Salé;Spécial;0.5;0;99999
+3555204;0;Bidouille;1;[Bidouille] Traite Amitié Horde CCR;;Spécial;14;0;99999
+2614332;0;Talisman;1;Collier à Pointes;;ESQ : -1 | DEG : +1 | Armure : +1;2.5;0;100
+3897385;0;Arme (1 main);1;Coutelas en os;de Feu;DEG : +1\+1;4;0;99999
+3899860;0;Composant;1;Tripes d'un Shai;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3905718;0;Composant;1;Langue d'un Abishaii Rouge;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+3879619;0;Composant;1;Langue Sensuelle d'un Incube;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3968419;0;Composant;1;Cervelle d'un Ours-Garou;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+3920665;0;Composant;1;Verrue d'un Hellrot;de Qualité Bonne [Spécial];Spécial;0.5;0;99999
+3907785;0;Composant;1;Patte d'une Coccicruelle;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3853702;0;Composant;1;Tripes d'un Trancheur;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+3863748;0;Composant;1;Bec d'une Banshee;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3865861;0;Composant;1;Pronotum Coloré d'une Coccicruelle;de Qualité Mauvaise [Spécial];Spécial;0.5;0;99999
+3961325;0;Composant;1;Bec d'une Banshee;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+4000005;0;Composant;1;Serre d'un Abishaii Rouge;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3941242;0;Composant;1;Cervelle d'un Cheval à Dents de Sabre;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+3898689;0;Composant;1;Ongle d'un Géant des Gouffres;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3941563;0;Composant;1;Jambe d'un Kobold;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+3939327;0;Composant;1;Main d'un Kobold;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+3912967;0;Composant;1;Patte d'une Coccicruelle;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+3889335;0;Composant;1;Os d'un Carnosaure;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3895930;0;Bouclier;1;Rondache en métal;;ESQ : +1 | Armure : +2;30;0;150
+3971272;0;Composant;1;Queue d'un Abishaii Noir;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+3496120;0;Bouclier;1;Rondache en bois;;ESQ : +1 | Armure : +1;15;0;100
+3956131;0;Talisman;1;Gorgeron en cuir;;Armure : +1;2.5;0;75
+3926388;0;Composant;1;Aile d'un Abishaii Bleu;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3958164;0;Composant;1;Pied d'un Fungus Violet;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3956788;0;Composant;1;Bulbe d'un Fungus Géant;de Qualité Mauvaise [Spécial];Spécial;0.5;0;99999
+3160303;0;Bottes;1;Jambières en maille;;ESQ : -1 | Armure : +3 | RM : +6 %;20;0;200
+4023209;0;Composant;1;Doigt d'un Yuan-ti;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3028596;0;Composant;1;Dent d'un Minotaure;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+3928032;0;Composant;1;Os d'un Abishaii Rouge;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+3977381;0;Composant;1;Lymphe d'une Coccicruelle;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4039422;0;Composant;1;Queue d'un Crasc;de Qualité Très Mauvaise [Membre];Spécial;0.5;0;99999
+3984504;0;Composant;1;Sang d'une Bulette;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3982468;0;Composant;1;Abdominaux Sculptés d'un Incube;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+3952764;0;Composant;1;Os d'un Tigre-Garou;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+3964885;0;Composant;1;Oeil Primaire d'un Xorn;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+3998564;0;Composant;1;Coeur d'un Géant de Pierre;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+3994608;0;Talisman;1;Gorgeron en métal;;REG : -1 | Armure : +2;5;0;100
+3204999;0;Arme (1 main);1;Crochet;en Mithril;ATT : -1 | DEG : +3;6;0;99999
+4005192;0;Armure;1;Fourrures;;Armure : +2 | RM : +24 %;15;0;200
+2960305;0;Bouclier;1;Rondache en bois;;ESQ : +1 | Armure : +1;15;0;100
+4001027;0;Composant;1;Queue d'un Carnosaure;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4067027;0;Armure;1;Armure de bois;de la Salamandre;ESQ : -3 | REG : +1 | Armure : +5 | RM : +30 %;50;0;99999
+3885577;0;Composant;1;Langue d'un Pseudo-Dragon;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+4001159;0;Composant;1;Queue d'un Abishaii Noir;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+3872868;0;Composant;1;Sang d'un Shai;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+3998961;0;Potion;1;PufPuff;;ATT : -1 D3 | ESQ : -1 D3 | Vue : -2 | Effet de Zone;5;0;50
+3945935;0;Composant;1;Cuisse d'un Rocketeux;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3672350;0;Composant;1;Coeur d'un Yéti;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3346264;0;Potion;1;Elixir de Longue-Vue;;Vue : +2;5;0;10
+4017278;0;Composant;1;Serre d'un Abishaii Bleu;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+3905404;0;Composant;1;Furoncle d'un Hellrot;de Qualité Mauvaise [Spécial];Spécial;0.5;0;99999
+3534855;0;Composant;1;Coeur d'une Manticore;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4053764;0;Composant;1;Mandibule d'une Coccicruelle;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+4057642;0;Arme (1 main);1;Dague;de Résistance;DEG : +1 | Armure : +0\+1;5;0;99999
+4079983;0;Armure;1;Armure d'Anneaux;;ESQ : -8 | Armure : +8 | RM : +108 %;80;0;900
+4041262;0;Composant;1;Doigt d'une Sorcière;de Qualité Très Bonne [Membre];Spécial;0.5;0;99999
+3975976;0;Composant;1;Dards d'une Nuée de Vermine;de Qualité Très Mauvaise [Spécial];Spécial;0.5;0;99999
+3933002;0;Composant;1;Patte d'un Shai;de Qualité Très Bonne [Membre];Spécial;0.5;0;99999
+4021095;0;Composant;1;Griffe d'une Sorcière;de Qualité Très Mauvaise [Membre];Spécial;0.5;0;99999
+4003704;0;Composant;1;Biceps Saillant d'un Incube;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+4057643;0;Composant;1;Cuisse d'une Sorcière;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+4055239;0;Composant;1;Patte d'une Bulette;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4089985;0;Composant;1;Os d'un Abishaii Bleu;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4000004;0;Potion;1;Elixir de Corruption;;ATT : +3 D3 | ESQ : -3 D3 | DEG : +3 D3 | REG : -3 | Vue : -3 | Armure : +3;5;0;90
+3950659;0;Armure;1;Armure de pierre;;ESQ : -6 | Armure : +12 | RM : +98 %;120;0;1500
+3955407;0;Composant;1;Oeil d'un Rocketeux;de Qualité Très Bonne [Tête];Spécial;0.5;0;99999
+3950660;0;Composant;1;Jambe d'un Rocketeux;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+3859486;0;Potion;1;Dover Powa;;RM : -12 % | MM : +20 %;5;0;50
+3870376;0;Potion;1;Elixir de Corruption;;ATT : +3 D3 | ESQ : -3 D3 | DEG : +3 D3 | REG : -3 | Vue : -3 | Armure : +3;5;0;90
+3990241;0;Composant;1;Mandibule d'un Thri-kreen;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3854629;0;Composant;1;Patte d'un Shai;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+4075442;0;Composant;1;Oeil Rougeoyant d'un Crasc Médius;de Qualité Très Bonne [Spécial];Spécial;0.5;0;99999
+4091593;0;Composant;1;Doigt d'une Erinyes;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4067028;0;Composant;1;Cervelle d'une Sorcière;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3841764;0;Composant;1;Dent d'un Abishaii Bleu;de Qualité Très Bonne [Tête];Spécial;0.5;0;99999
+4068747;0;Composant;1;Oeil d'un Worg;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+4087430;0;Composant;1;Queue d'un Sagouin;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4077085;0;Composant;1;Cervelle d'un Worg;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+3862222;0;Composant;1;Queue d'une Chimère;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4082463;0;Composant;1;Tripes d'un Sagouin;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+2740852;0;Composant;1;Trompe d'une Strige;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+3865963;0;Potion;1;Elixir de Corruption;;ATT : +5 D3 | ESQ : -5 D3 | DEG : +5 D3 | REG : -5 | Vue : -5 | Armure : +5 | RM : -7 % | MM : -9 %;5;0;90
+4115518;0;Bottes;1;Jambières en fourrure;;Armure : +1 | RM : +9 %;2.5;0;150
+4150004;0;Composant;1;Coeur d'un Goblin;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4151903;0;Arme (1 main);1;Gourdin;de la Salamandre;ATT : -1 | DEG : +2 | REG : +1;12.5;0;99999
+4143953;0;Composant;1;Sang d'un Kobold;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4148268;0;Composant;1;Omoplate d'un Squelette;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+3406934;0;Composant;1;Oeil d'un Djinn;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+3661739;0;Composant;1;Aile d'une Strige;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+2428469;0;Composant;1;Oeil d'une Cockatrice;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3401664;0;Composant;1;Oeil d'une Araignée Géante;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+4011074;0;Composant;1;Chitine d'un Nécrophage;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+2399522;0;Composant;1;Griffe d'un Rat Géant;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+2927194;0;Composant;1;Fémur d'un Squelette;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3417593;0;Composant;1;Phalange d'un Squelette;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+2514617;0;Composant;1;Mandibule d'une Strige;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+2960707;0;Composant;1;Tête d'un Sagouin;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+3773959;0;Composant;1;Os d'une Chauve-Souris Géante;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4040264;0;Composant;1;Queue d'un Gnu Sauvage;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3932695;0;Composant;1;Peau d'un Molosse Satanique;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4142634;0;Potion;1;Sinne Khole;;RM : +54 % | MM : -33 %;5;0;40
+3426219;0;Composant;1;Doigt d'un Goblours;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4170452;0;Arme (1 main);1;Dague;en Mithril;DEG : +1;2.5;0;99999
+4163349;0;Composant;1;Bandelette d'une Momie;de Qualité Mauvaise [Spécial];Spécial;0.5;0;99999
+4142635;0;Composant;1;Dent d'un Yéti;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3346667;0;Composant;1;Patte d'une Araignée Géante;de Qualité Très Bonne [Membre];Spécial;0.5;0;99999
+3231574;0;Composant;1;Langue d'un Kobold;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+2578362;0;Composant;1;Patte d'une Strige;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+3766545;0;Composant;1;Oeil d'un Kobold;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3906114;0;Composant;1;Ergot d'une Cockatrice;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3802130;0;Composant;1;Queue d'un Rat Géant;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+3421997;0;Composant;1;Verrue d'un Goblin;de Qualité Mauvaise [Spécial];Spécial;0.5;0;99999
+4110614;0;Composant;1;Membre Branlant d'un Zombie;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4187583;0;Composant;1;Spore d'un Fungus Géant;de Qualité Mauvaise [Spécial];Spécial;0.5;0;99999
+3801298;0;Composant;1;Sang d'un Rat Géant;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4150628;0;Composant;1;Sang d'un Gnu Sauvage;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4179929;0;Bouclier;1;Rondache en métal;;ESQ : +1 | Armure : +2;30;0;150
+3349732;0;Composant;1;Pied d'un Fungus Géant;de Qualité Très Mauvaise [Membre];Spécial;0.5;0;99999
+4197746;0;Composant;1;Serre d'un Abishaii Bleu;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+4162048;0;Composant;1;Queue d'un Gnu Sauvage;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4202762;0;Composant;1;Oeil d'un Abishaii Bleu;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+4195741;0;Composant;1;Tripes d'un Abishaii Bleu;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4201300;0;Composant;1;Cervelle d'un Carnosaure;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+3867723;0;Champignon;1;Amanite Trolloïde;Acide;Spécial;0.5;0;99999
+4195740;0;Potion;1;Dover Powa;;RM : -14 % | MM : +13 %;5;0;50
+4127607;0;Composant;1;Cervelle d'un Shai;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4100292;0;Composant;1;Cuisse d'un Ours-Garou;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+2276372;0;Casque;1;Lorgnons;;ESQ : -1 | Vue : +1 | MM : +10 %;2.5;0;150
+4167787;0;Composant;1;Tripes d'un Trancheur;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4035669;0;Composant;1;Sang d'un Glouton;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+4113054;0;Composant;1;Mandibule d'un Thri-kreen;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+4030040;0;Composant;1;Tripes d'un Abishaii Bleu;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+4003324;0;Composant;1;Coeur d'un Hurleur;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3960120;0;Composant;1;Langue d'une Méduse;de Qualité Très Bonne [Tête];Spécial;0.5;0;99999
+3965164;0;Composant;1;Sang d'un Abishaii Noir;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4003323;0;Casque;1;Cagoule;;ESQ : +1 | Vue : -1 | MM : +7 %;2.5;0;75
+4082008;0;Composant;1;Patte d'un Abishaii Bleu;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+4159379;0;Composant;1;Os d'un Carnosaure;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3959279;0;Composant;1;Aiguillon d'une Mante Fulcreuse;de Qualité Bonne [Spécial];Spécial;0.5;0;99999
+4224152;0;Potion;1;Elixir de Fertilité;;ATT : +3 D3 | DEG : +3 D3;5;0;50
+4142879;0;Parchemin;1;Traité de Clairvoyance;;Vue : +2 | TOUR : -60 min;2.5;0;70
+4216322;0;Composant;1;Coeur d'un Abishaii Vert;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4058343;0;Composant;1;Peau d'un Carnosaure;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+4137885;0;Minerai;1;Kibrille (taille 3);de Qualité Normale;Spécial;0.5;0;99999
+4135896;0;Minerai;1;Kibrille (taille 15);de Qualité Normale;Spécial;0.5;0;99999
+4253438;0;Composant;1;Queue d'un Gnu Sauvage;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+3912915;0;Composant;1;Dent Blanche d'un Incube;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4259411;0;Composant;1;Mandibule d'un Scarabée Géant;de Qualité Bonne [Spécial];Spécial;0.5;0;99999
+4259410;0;Potion;1;Jus de Chronomètre;;TOUR : -30 min;5;0;30
+4235576;0;Composant;1;Cuisse d'une Harpie;de Qualité Très Mauvaise [Membre];Spécial;0.5;0;99999
+4236512;0;Composant;1;Tibia d'un Squelette;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4243189;0;Composant;1;Sternum d'un Squelette;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4241750;0;Composant;1;Crâne d'un Squelette;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+4263701;0;Potion;1;Sortilège usage unique : Flash Aveuglant;;Spécial;5;0;99999
+4269611;0;Composant;1;Oeil d'un Gremlins;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+4267440;0;Composant;1;Oeil d'un Gremlins;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+4263702;0;Composant;1;Oeil d'un Gremlins;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+4214763;0;Composant;1;Jambe d'un Titan;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+4101769;0;Composant;1;Chitine d'un Thri-kreen;de Qualité Très Mauvaise [Spécial];Spécial;0.5;0;99999
+4149597;0;Armure;1;Cuir Bouilli;;ESQ : -1 | Armure : +3 | RM : +22 %;17.5;0;300
+4092407;0;Composant;1;Oeil d'un Slaad;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+4123409;0;Composant;1;Fourrure d'un Monstre Rouilleur;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+4093993;0;Composant;1;Cervelle d'un Slaad;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+4177662;0;Arme (1 main);1;Gantelet;;ATT : -2 | ESQ : +1 | DEG : +1 | Armure : +2;7.5;0;350
+4001026;0;Talisman;1;Collier à Pointes;;ESQ : -1 | DEG : +1 | Armure : +1;2.5;0;100
+3493292;0;Talisman;1;Collier de pierre;;RM : +6 % | MM : +10 %;2.5;0;1000
+4241749;0;Armure;1;Fourrures;du Roc;ESQ : -1 | Armure : +2\+1 | RM : +16 %;15;0;99999
+3260535;0;Bouclier;1;Rondache en métal;;ESQ : +1 | Armure : +2;30;0;150
+4283158;0;Composant;1;Jambe d'un Gremlins;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+4278861;0;Composant;1;Tête d'un Gnu Sauvage;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+4255816;0;Bottes;1;Jambières en cuir;;Armure : +1 | RM : +8 %;10;0;100
+4072935;0;Composant;1;Aile d'un Abishaii Bleu;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+1642650;0;Arme (1 main);1;Fouet;du Roc;ATT : +4 | ESQ : -1 | DEG : -2 | Armure : +0\+1;7.5;0;99999
+4110254;0;Composant;1;Oeil d'un Hellrot;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+3947141;0;Composant;1;Crinière d'une Manticore;de Qualité Bonne [Spécial];Spécial;0.5;0;99999
+4238438;0;Arme (2 mains);1;Hache de Bataille;;ATT : -4 | DEG : +6;30;0;300
+4099265;0;Composant;1;Cervelle d'un Ogre;de Qualité Très Bonne [Tête];Spécial;0.5;0;99999
+4137751;0;Carte;1;Carte des Raccourcis :;Croisée des cavernes;Spécial;2.5;0;99999
+4238439;0;Composant;1;Sang d'un Shai;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+3954187;0;Composant;1;Oeil d'un Furgolin;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+4212602;0;Armure;1;Tunique;;ESQ : +1 | RM : +9 % | MM : +10 %;2.5;0;100
+4146033;0;Composant;1;Oeil d'un Shai;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4146032;0;Armure;1;Armure de Cuir;;Armure : +2 | RM : +18 %;10;0;250
+4097885;0;Composant;1;Peau d'un Shai;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4189286;0;Bouclier;1;Rondache en métal;;ESQ : +1 | Armure : +2;30;0;150
+4052193;0;Composant;1;Croc d'un Carnosaure;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4112183;0;Composant;1;Patte d'un Shai;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+4076825;0;Composant;1;Pronotum Coloré d'une Coccicruelle;de Qualité Très Mauvaise [Spécial];Spécial;0.5;0;99999
+3911904;0;Composant;1;Tête d'un Rat Géant;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+4010858;0;Composant;1;Venin d'un Scorpion Géant;de Qualité Très Bonne [Spécial];Spécial;0.5;0;99999
+4034836;0;Composant;1;Thorax d'une Coccicruelle;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4122082;0;Composant;1;Coeur d'un Ours-Garou;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3971754;0;Composant;1;Croc d'une Chimère;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3989074;0;Composant;1;Croc d'un Ours-Garou;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4034835;0;Armure;1;Armure de peaux;;ESQ : -2 | Armure : +4 | RM : +60 %;45;0;400
+4230714;0;Bottes;1;Jambières en cuir;;Armure : +1 | RM : +7 %;10;0;100
+3914562;0;Composant;1;Pattes d'un Nuage d'Insectes;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3938643;0;Composant;1;Tripes d'un Loup-Garou;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+4031221;0;Composant;1;Thorax d'une Coccicruelle;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4079563;0;Composant;1;Serre d'un Abishaii Bleu;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+3986708;0;Composant;1;Doigt d'une Sorcière;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+3943268;0;Composant;1;Langue d'un Basilisk;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3956818;0;Composant;1;Cervelle d'un Naga;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4081471;0;Composant;1;Sang d'un Abishaii Bleu;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+4133165;0;Composant;1;Coeur d'un Grouilleux;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3474277;0;Composant;1;Jambe d'un Kobold;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4083363;0;Composant;1;Coeur d'un Kobold;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3685317;0;Bottes;1;Jambières en fourrure;;Armure : +1 | RM : +10 %;2.5;0;150
+3765137;0;Anneau;1;Anneau de Protection contre <b>Souffle de Feu</b>;;Protection;10.5;0;99999
+4168008;0;Potion;1;Jus de Chronomètre;;TOUR : -30 min;5;0;30
+4283157;0;Potion;1;Zet Crakdedand;;ATT : -2 D3 | ESQ : -2 D3 | Vue : -1 | PV : +4 D3;5;0;60
+4253437;0;Potion;1;Elixir de Bonne Bouffe;;DEG : +4 D3 | REG : +4;5;0;60
+3889334;0;Carte;1;Carte des Raccourcis :;Gouffre;Spécial;2.5;0;99999
+1737535;0;Composant;1;Main d'un Rat-Garou;de Qualité Très Bonne [Membre];Spécial;0.5;66157;0
+4216071;0;Composant;1;Tripes d'un Glouton;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4162636;0;Composant;1;Omoplate d'un Squelette;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4168468;0;Composant;1;Phalange d'un Squelette;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+3684754;0;Composant;1;Oeil d'un Thri-kreen;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+4181813;0;Composant;1;Os d'un Kobold;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4095406;0;Composant;1;Oeil d'un Rat Géant;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+4055654;0;Composant;1;Oeil d'une Strige;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3329376;0;Armure;1;Haubert de mailles;;ESQ : -4 | Armure : +9 | RM : +56 %;90;0;1000
+3635830;0;Arme (2 mains);1;Hache de guerre en os;;ATT : -4 | DEG : +6;25;0;300
+4055238;0;Parchemin;1;Yeu'Ki'Pic;;Vue : -3 | Effet de Zone;2.5;0;40
+3320732;0;Armure;1;Cotte de Mailles;;ESQ : -3 | Armure : +7 | RM : +36 %;70;0;800
+4257353;0;Composant;1;Omoplate d'un Squelette;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3313545;0;Armure;1;Armure de Cuir;du Temps;TOUR : -30 min | Armure : +2 | RM : +13 %;10;0;99999
+4079562;0;Potion;1;Dover Powa;;RM : -26 % | MM : +36 %;5;0;50
+3949345;0;Potion;1;Elixir de Corruption;;ATT : +7 D3 | ESQ : -7 D3 | DEG : +7 D3 | REG : -7 | Vue : -7 | Armure : +7 | RM : -22 % | MM : -27 %;5;0;90
+3619100;0;Potion;1;Elixir de Fertilité;;ATT : +4 D3 | DEG : +4 D3;5;0;50
+3938642;0;Potion;1;Métomol;;TOUR : -10 min | Armure : -2;5;0;25
+4283851;0;Composant;1;Patte d'une Bulette;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3872867;0;Potion;1;Métomol;;TOUR : -20 min | Armure : -4;5;0;50
+4112182;0;Potion;1;Rhume en Conserve;;ATT : -1 D3 | ESQ : -1 D3 | DEG : -1 D3 | REG : -1;5;0;60
+4072934;0;Potion;1;Sang de Toh Réroh;;ATT : +2 D3 | ESQ : +2 D3;5;0;75
+4222490;0;Composant;1;Oeil d'un Shai;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+4185044;0;Composant;1;Os d'un Yuan-ti;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4198468;0;Composant;1;Patte d'un Abishaii Bleu;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+4265135;0;Composant;1;Cuisse d'un Gremlins;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4286126;0;Potion;1;Dover Powa;;RM : -28 % | MM : +30 %;5;0;50
+4281426;0;Composant;1;Tripes d'un Gremlins;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4200725;0;Composant;1;Oeil d'un Ogre;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+4138823;0;Composant;1;Tripes d'un Hurleur;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+4159266;0;Arme (2 mains);1;Bâtons de Parade;;ATT : -4 | ESQ : +2 | Armure : +2;7.5;0;250
+3943142;0;Composant;1;Oeil d'un Goblin;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+3991764;0;Composant;1;Oeil d'un Goblours;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4270348;0;Composant;1;Cuisse d'un Gremlins;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3999419;0;Composant;1;Dent d'un Abishaii Noir;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+4182977;0;Composant;1;Dards d'un Nuage d'Insectes;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+4269518;0;Composant;1;Coeur d'un Gremlins;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+4286127;0;Composant;1;Langue d'un Gremlins;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4295383;0;Composant;1;Cuisse d'un Gremlins;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4175631;0;Composant;1;Tête d'une Momie;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+4288536;0;Composant;1;Griffe d'un Gremlins;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+4270347;0;Potion;1;Dover Powa;;RM : -48 % | MM : +48 %;5;0;50
+4224089;0;Parchemin;1;Rune des Cyclopes;;ATT : +2 D3 | DEG : +2 D3 | Vue : -2;2.5;0;60
+3857323;0;Potion;1;Essence de KouleMann;;REG : +1 | Vue : +1;5;0;40
+4265134;0;Potion;1;Elixir de Feu;;ESQ : +3 D3 | Vue : +3;5;0;50
+4263122;0;Composant;1;Langue d'un Gremlins;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4263121;0;Potion;1;Elixir de Feu;;ESQ : +3 D3 | Vue : +3;5;0;50
+4224090;0;Composant;1;Os d'un Slaad;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4266662;0;Composant;1;Os d'un Gremlins;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4292353;0;Composant;1;Sang d'une Gargouille;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+4167261;0;Potion;1;Elixir de Corruption;;ATT : +5 D3 | ESQ : -5 D3 | DEG : +5 D3 | REG : -5 | Vue : -5 | Armure : +5 | RM : -6 % | MM : -8 %;5;0;90
+4256157;0;Composant;1;Cuisse d'un Gremlins;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4186970;0;Composant;1;Oeil d'un Lézard Géant;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4122243;0;Composant;1;Coeur d'une Gargouille;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+4296308;0;Composant;1;Dent d'un Gremlins;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+4244070;0;Armure;1;Cuirasse d'écailles;;ESQ : -3 | Armure : +6 | RM : +49 %;60;0;400
+4122242;0;Armure;1;Armure de bois;;ESQ : -3 | Armure : +5 | RM : +32 %;50;0;400
+4241583;0;Potion;1;Jus de Chronomètre;;TOUR : -60 min;5;0;60
+4281425;0;Armure;1;Haubert de mailles;;ESQ : -4 | Armure : +9 | RM : +56 %;90;0;1000
+4168198;0;Potion;1;Elixir de Corruption;;ATT : +7 D3 | ESQ : -7 D3 | DEG : +7 D3 | REG : -7 | Vue : -7 | Armure : +7 | RM : -21 % | MM : -28 %;5;0;90
+4207982;0;Potion;1;Essence de KouleMann;;REG : +2 | Vue : +2;5;0;40
+3705194;0;Composant;1;Fourrure Chatoyante d'un Mouch'oo Sauvage;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+3923317;0;Composant;1;Sang d'un Flagelleur Mental;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4275332;0;Composant;1;Cuisse d'un Ogre;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4284804;0;Potion;1;Rhume en Conserve;;ATT : -1 D3 | ESQ : -1 D3 | DEG : -1 D3 | REG : -1;5;0;60
+4242287;0;Composant;1;Patte d'un Worg;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4260427;0;Potion;1;Sinne Khole;;RM : +12 % | MM : -20 %;5;0;40
+4284805;0;Composant;1;Doigt d'un Ogre;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4289437;0;Composant;1;Coeur d'un Ogre;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+3950820;0;Potion;1;PufPuff;;ATT : -2 D3 | ESQ : -2 D3 | Vue : -3 | Effet de Zone;5;0;50
+4314966;0;Composant;1;Os d'un Gremlins;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+4271143;0;Composant;1;Tripes d'un Ogre;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+4249522;0;Parchemin;1;Traité de Clairvoyance;;Vue : +3 | TOUR : -90 min;2.5;0;70
+4267055;0;Composant;1;Tripes d'un Ogre;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+4249523;0;Composant;1;Croc d'un Worg;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+4260428;0;Composant;1;Croc d'un Worg;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+4323939;0;Composant;1;Main d'une Momie;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3676606;0;Composant;1;Phalange d'un Squelette;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+4087114;0;Composant;1;Griffe d'un Kobold;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+2919841;0;Bottes;1;Jambières en os;;ESQ : -1 | Armure : +2 | RM : +8 %;10;0;150
+2494669;0;Armure;1;Tunique;des Tortues;ESQ : +1 | TOUR : +30 min | Armure : +0\+2 | RM : +7 % | MM : +8 %;2.5;0;99999
+3889605;0;Composant;1;Os d'un Worg;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4326347;0;Composant;1;Doigt d'un Gremlins;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+4093992;0;Parchemin;1;Rune Explosive;;PV : -2 D3 | Effet de Zone;2.5;0;40
+4322774;0;Composant;1;Coeur d'un Gremlins;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4092406;0;Potion;1;Elixir de Fertilité;;ATT : +3 D3 | DEG : +3 D3;5;0;50
+4344368;0;Composant;1;Griffe d'un Boggart;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4344378;0;Composant;1;Verrue d'un Boggart;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+4190421;0;Composant;1;Langue d'un Gnu Sauvage;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+3962977;0;Composant;1;Jambe d'un Gremlins;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+3755956;0;Composant;1;Jambe d'un Kobold;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3930429;0;Composant;1;Patte d'une Strige;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+4094437;0;Composant;1;Tripes d'un Gremlins;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+3580157;0;Composant;1;Sang d'un Rat Géant;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3796619;0;Composant;1;Oeil d'un Gremlins;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3288875;0;Potion;1;Sang de Toh Réroh;;ATT : +1 D3 | ESQ : +1 D3;5;0;50
+3449115;0;Composant;1;Main d'un Kobold;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3965440;0;Composant;1;Coeur d'un Gremlins;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+3968321;0;Composant;1;Tripes d'un Gremlins;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+3584610;0;Composant;1;Tête d'un Rat Géant;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3520624;0;Potion;1;Sang de Toh Réroh;;ATT : +1 D3 | ESQ : +1 D3;5;0;50
+3842541;0;Composant;1;Oeil d'un Gremlins;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+3608812;0;Potion;1;PufPuff;;ATT : -1 D3 | ESQ : -1 D3 | Vue : -2 | Effet de Zone;5;0;50
+3660886;0;Bouclier;1;Rondache en bois;;ESQ : +1 | Armure : +1;15;0;100
+3595501;0;Composant;1;Chitine d'une Strige;de Qualité Bonne [Spécial];Spécial;0.5;0;99999
+3549909;0;Potion;1;Elixir de Corruption;;ATT : +3 D3 | ESQ : -3 D3 | DEG : +3 D3 | REG : -3 | Vue : -3 | Armure : +3;5;0;90
+3549910;0;Composant;1;Sang d'un Caillouteux;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+3520625;0;Composant;1;Tibia d'un Squelette;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+3743601;0;Armure;1;Armure de Cuir;;Armure : +2 | RM : +19 %;10;0;250
+3895678;0;Parchemin;1;Idées Confuses;;ATT : -2 D3 | TOUR : +60 min;2.5;0;50
+3017348;0;Armure;1;Cotte de Mailles;des Enragés;ATT : +0\+1 | ESQ : -4 | DEG : +0\+1 | Armure : +7 | RM : +51 %;70;0;99999
+3561076;0;Composant;1;Mandibule d'une Strige;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+3392765;0;Composant;1;Griffe d'un Naga;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+3382616;0;Composant;1;Fourrure Chatoyante d'un Mouch'oo Sauvage;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+3180117;0;Composant;1;Oeil d'une Gorgone;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4343200;0;Composant;1;Doigt d'un Gremlins;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+3021519;0;Composant;1;Griffe d'un Kobold;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+2860152;0;Composant;1;Trompe d'une Strige;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3896377;0;Composant;1;Chitine d'une Strige;de Qualité Mauvaise [Spécial];Spécial;0.5;0;99999
+3018366;0;Composant;1;Oeil d'un Goblin;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+2485796;0;Composant;1;Peau d'un Shai;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+1957510;0;Composant;1;Dards d'une Nuée de Vermine;de Qualité Mauvaise [Spécial];Spécial;0.5;0;99999
+1799897;0;Composant;1;Poil d'un Minotaure;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+3487922;0;Composant;1;Oeil d'une Coccicruelle;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+1758080;0;Composant;1;Queue d'un Abishaii Vert;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3865235;0;Composant;1;Os d'un Champi-Glouton;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4140373;0;Champignon;1;Pied Jaune;Sucré;Spécial;0.5;0;99999
+2049337;0;Composant;1;Bec d'une Banshee;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+2459125;0;Composant;1;Aile d'une Banshee;de Qualité Très Mauvaise [Membre];Spécial;0.5;0;99999
+3438524;0;Composant;1;Tripes d'un Abishaii Noir;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+2242436;0;Composant;1;Serre d'un Abishaii Rouge;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+2888918;0;Composant;1;Tripes d'un Kobold;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4347520;0;Composant;1;Griffe d'un Rat Géant;de Qualité Très Bonne [Membre];Spécial;0.5;0;99999
+3359272;0;Composant;1;Fourrure d'un Tigre-Garou;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+4136383;0;Champignon;1;Pied Jaune;Sucré;Spécial;0.5;0;99999
+2857566;0;Composant;1;Os d'un Worg;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+3190766;0;Composant;1;Tripes d'un Behir;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+1829306;0;Composant;1;Griffe d'un Lézard Géant;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+1740946;0;Composant;1;Patte d'une Chimère;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+3343117;0;Composant;1;Soie d'un Ver Carnivore Géant;de Qualité Mauvaise [Spécial];Spécial;0.5;0;99999
+3204548;0;Composant;1;Langue d'un Behir;de Qualité Très Bonne [Tête];Spécial;0.5;0;99999
+2586817;0;Composant;1;Poing d'un Ogre;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+2676219;0;Composant;1;Griffe Fouisseuse d'une Bulette;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3222627;0;Composant;1;Coeur d'un Glouton;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+3422868;0;Composant;1;Coeur d'un Loup-Garou;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+3426175;0;Composant;1;Oeil d'un Thri-kreen;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+2581892;0;Composant;1;Dent d'un Ogre;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+3470095;0;Composant;1;Os d'une Erinyes;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+2552616;0;Composant;1;Tripes d'un Abishaii Rouge;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+2409298;0;Composant;1;Bras Secondaire d'un Xorn;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3429077;0;Composant;1;Tête d'une Gorgone;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+2734905;0;Composant;1;Trompe d'une Strige;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+719403;0;Champignon;1;Horreur Des Prés;Acide;Spécial;0.5;0;99999
+3465934;0;Composant;1;Griffe d'un Basilisk;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+3360553;0;Composant;1;Peau d'une Banshee;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+3376246;0;Composant;1;Chitine d'une Nuée de Vermine;de Qualité Mauvaise [Spécial];Spécial;0.5;0;99999
+1856610;0;Composant;1;Jambe d'un Yéti;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3182012;0;Composant;1;Cuisse d'un Yuan-ti;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3009526;0;Champignon;1;Girolle Sanglante;Acide;Spécial;0.5;0;99999
+1955076;0;Composant;1;Sang d'un Behir;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+2623888;0;Champignon;1;Suinte Cadavre;Salé;Spécial;0.5;0;99999
+4140369;0;Champignon;1;Pied Jaune;Sucré;Spécial;0.5;0;99999
+3314515;0;Composant;1;Doigt d'un Yéti;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3046407;0;Champignon;1;Phytomassus Xilénique;Salé;Spécial;0.5;0;99999
+3216058;0;Composant;1;Furoncle d'un Hellrot;de Qualité Bonne [Spécial];Spécial;0.5;0;99999
+3648899;0;Champignon;1;Horreur Des Prés;Acide;Spécial;0.5;0;99999
+3648894;0;Champignon;1;Horreur Des Prés;Salé;Spécial;0.5;0;99999
+3831657;0;Champignon;1;Cèpe Lumineux;Sucré;Spécial;0.5;0;99999
+3671261;0;Champignon;1;Fungus Rampant;Acide;Spécial;0.5;0;99999
+3185419;0;Composant;1;Langue d'un Basilisk;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+3084757;0;Champignon;1;Agaric Sous-Terrain;Salé;Spécial;0.5;0;99999
+2623887;0;Champignon;1;Suinte Cadavre;Sucré;Spécial;0.5;0;99999
+3008263;0;Champignon;1;Girolle Sanglante;Acide;Spécial;0.5;0;99999
+3009528;0;Champignon;1;Girolle Sanglante;Acide;Spécial;0.5;0;99999
+1951634;0;Composant;1;Queue d'une Manticore;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+1832906;0;Composant;1;Tête d'une Momie;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+2884260;0;Armure;1;Armure de Plates;;ESQ : -5 | Armure : +10 | RM : +70 %;100;0;1200
+2841709;0;Champignon;1;Pleurote Pleureuse;Salé;Spécial;0.5;0;99999
+4138819;0;Champignon;1;Pied Jaune;Sucré;Spécial;0.5;0;99999
+3386691;0;Composant;1;Cuir d'un Crasc;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+2615374;0;Champignon;1;Suinte Cadavre;Sucré;Spécial;0.5;0;99999
+3200862;0;Composant;1;Lymphe d'un Mille-Pattes Géant;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+2408775;0;Champignon;1;Suinte Cadavre;Acide;Spécial;0.5;0;99999
+2841707;0;Champignon;1;Pleurote Pleureuse;Salé;Spécial;0.5;0;99999
+3002827;0;Champignon;1;Girolle Sanglante;Salé;Spécial;0.5;0;99999
+2841708;0;Champignon;1;Pleurote Pleureuse;Salé;Spécial;0.5;0;99999
+2626129;0;Champignon;1;Girolle Sanglante;Acide;Spécial;0.5;0;99999
+4371762;0;Composant;1;Griffe d'un Lézard Géant;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+3292400;0;Composant;1;Dent d'un Abishaii Bleu;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4395643;0;Composant;1;Sang d'un Abishaii Vert;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4388467;0;Composant;1;Jambe d'un Yéti;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4365060;0;Composant;1;Os d'une Manticore;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4362137;0;Composant;1;Cervelle d'un Molosse Satanique;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+4424159;0;Composant;1;Tête d'un Naga;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4322723;0;Composant;1;Sang d'un Yéti;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4436226;0;Composant;1;Cuisse d'un Yuan-ti;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4469143;0;Composant;1;Oeil d'une Goule;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+4367710;0;Arme (1 main);1;Boulet et chaîne;;ATT : -3 | DEG : +5;15;0;350
+4467887;0;Potion;1;Elixir de Feu;;ESQ : +3 D3 | Vue : +3;5;0;50
+3946746;0;Potion;1;Jus de Chronomètre;;TOUR : -60 min;5;0;60
+4467888;0;Composant;1;Cuisse Ferme d'une Succube;de Qualité Très Mauvaise [Membre];Spécial;0.5;0;99999
+4296307;0;Potion;1;Elixir de Longue-Vue;;Vue : +2;5;0;10
+4444868;0;Arme (2 mains);1;Baton Lesté;;ATT : +2 | DEG : -1;7.5;0;200
+4292352;0;Potion;1;Jus de Chronomètre;;TOUR : -30 min;5;0;30
+2995867;0;Parchemin;1;Rune des Cyclopes;;ATT : +2 D3 | DEG : +2 D3 | Vue : -2;2.5;0;60
+3991763;0;Potion;1;Sortilège usage unique : Identification des trésors;;Spécial;5;0;99999
+3854628;0;Potion;1;Elixir de Feu;;ESQ : +3 D3 | Vue : +3;5;0;50
+3983043;0;Potion;1;Sang de Toh Réroh;;ATT : +2 D3 | ESQ : +2 D3;5;0;75
+3688605;0;Potion;1;Sortilège usage unique : Invisibilité;;Spécial;5;0;99999
+4472256;0;Potion;1;Sortilège usage unique : Identification des trésors;;Spécial;5;0;99999
+4421214;0;Armure;1;Pagne en Cuir;;ESQ : +2 | Armure : -1;5;0;100
+4465782;0;Arme (2 mains);1;Grosse Stalagmite;;ATT : -20 | ESQ : -15 | DEG : +28 | Vue : -4;125;0;400
+4487424;0;Armure;1;Cuir Bouilli;;ESQ : -1 | Armure : +3 | RM : +26 %;17.5;0;300
+4382456;0;Arme (1 main);1;Torche;;ATT : +1 | DEG : +1 | Vue : +1;7.5;0;300
+4476389;0;Talisman;1;Collier à Pointes;;ESQ : -1 | DEG : +1 | Armure : +1;2.5;0;100
+2285514;0;Parchemin;1;Idées Confuses;;ATT : -2 D3 | TOUR : +60 min;2.5;0;50
+4380323;0;Composant;1;Corde Vocale d'un Hurleur;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4380321;0;Composant;1;Queue d'un Homme-Lézard;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4406237;0;Composant;1;Epine d'un Bouj'Dla;de Qualité Très Mauvaise [Spécial];Spécial;0.5;0;99999
+4534198;0;Composant;1;Peau d'un Carnosaure;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4119096;0;Bouclier;1;Rondache en bois;du Rat;ESQ : +2 | Armure : +1;15;0;99999
+4441086;0;Composant;1;Patte Tertiaire d'un Xorn;de Qualité Très Bonne [Membre];Spécial;0.5;0;99999
+4376394;0;Composant;1;Griffe d'un Molosse Satanique;de Qualité Très Bonne [Membre];Spécial;0.5;0;99999
+4443301;0;Composant;1;Néphridie d'un Ver Carnivore Géant;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4563806;0;Armure;1;Tunique d'écailles;de Résistance;ESQ : -1 | Armure : +3\+1 | RM : +28 %;30;0;99999
+4384324;0;Composant;1;Jambe d'un Hurleur;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+4352517;0;Composant;1;Dent d'un Minotaure;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+4008732;0;Arme (1 main);1;Machette;des Cyclopes en Mithril;ATT : +1\+1 | ESQ : -1 | DEG : +2\+1 | Vue : -1;10;0;99999
+4556320;0;Composant;1;Sabot d'un Cheval à Dents de Sabre;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4327594;0;Composant;1;Oeil d'un Naga;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4436225;0;Arme (1 main);1;Dague;des Enragés;ATT : +0\+1 | ESQ : -1 | DEG : +1\+1;5;0;99999
+4335093;0;Composant;1;Os d'un Bondin;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4376393;0;Potion;1;Elixir de Corruption;;ATT : +3 D3 | ESQ : -3 D3 | DEG : +3 D3 | REG : -3 | Vue : -3 | Armure : +3;5;0;90
+4326346;0;Parchemin;1;Yeu'Ki'Pic;;Vue : -3 | Effet de Zone;2.5;0;40
+4387146;0;Potion;1;Extrait du Glacier;;REG : +4 | Armure : +4;5;0;70
+4470445;0;Composant;1;Griffe d'un Grylle;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+4526011;0;Composant;1;Tripes d'un Mouch'oo Sauvage;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4528199;0;Composant;1;Langue d'un Abishaii Rouge;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4362938;0;Arme (1 main);1;Fouet;;ATT : +4 | DEG : -2;7.5;0;250
+4463016;0;Composant;1;Aile Profilée d'une Succube;de Qualité Très Mauvaise [Membre];Spécial;0.5;0;99999
+4452223;0;Composant;1;Estomac d'un Ver Carnivore Géant;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4345906;0;Bouclier;1;Bouclier à Pointes;;ATT : +1 | ESQ : -1 | DEG : +1 | Armure : +4;35;0;450
+4431869;0;Composant;1;Coeur d'un Ours-Garou;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4494055;0;Composant;1;Croc d'un Behir;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+4302623;0;Potion;1;Zet Crakdedand;;ATT : -2 D3 | ESQ : -2 D3 | Vue : -1 | PV : +4 D3;5;0;60
+2901197;0;Potion;1;Elixir de Longue-Vue;;Vue : +1;5;0;10
+4345907;0;Composant;1;Antenne d'un Thri-kreen;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+4376362;0;Composant;1;Mycélium d'un Fungus Violet;de Qualité Mauvaise [Spécial];Spécial;0.5;0;99999
+4565140;0;Bouclier;1;Gros'Porte;;ESQ : -1 | Armure : +5 | RM : +12 %;50;0;500
+4400591;0;Composant;1;Oeil d'une Limace Géante;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4427774;0;Armure;1;Fourrures;;Armure : +2 | RM : +18 %;15;0;200
+4197801;0;Parchemin;1;Rune Explosive;;PV : -4 D3 | Effet de Zone;2.5;0;40
+4531765;0;Armure;1;Armure de peaux;;ESQ : -2 | Armure : +4 | RM : +33 %;45;0;400
+4364669;0;Composant;1;Tripes d'un Abishaii Noir;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4435726;0;Composant;1;Cuisse d'un Diablotin;de Qualité Très Bonne [Membre];Spécial;0.5;0;99999
+3832920;0;Potion;1;Zet Crakdedand;;ATT : -1 D3 | ESQ : -1 D3 | Vue : -1 | PV : +2 D3;5;0;60
+4505698;0;Composant;1;Dent d'une Erinyes;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+4390128;0;Composant;1;Os d'une Cockatrice;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4454126;0;Potion;1;Elixir de Corruption;;ATT : +6 D3 | ESQ : -6 D3 | DEG : +6 D3 | REG : -6 | Vue : -6 | Armure : +6 | RM : -12 % | MM : -14 %;5;0;90
+4527189;0;Composant;1;Os d'un Palefroi Infernal;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4494510;0;Composant;1;Sang d'un Abishaii Noir;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4450078;0;Composant;1;Cervelle d'un Shai;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+1379962;0;Talisman;1;Collier de pierre;;RM : +8 % | MM : +9 %;2.5;0;75
+4481330;0;Composant;1;Aile d'un Abishaii Vert;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+3378044;0;Composant;1;Oeil d'un Barghest;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+4552360;0;Composant;1;Os d'une Méduse;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4555578;0;Composant;1;Cervelle d'un Worg;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+4284016;0;Potion;1;Zet Crakdedand;;ATT : -3 D3 | ESQ : -3 D3 | Vue : -1 | PV : +6 D3;5;0;60
+4572523;0;Potion;1;Dover Powa;;RM : -52 % | MM : +64 %;5;0;50
+4572524;0;Composant;1;Coeur d'un Abishaii Noir;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+4600745;0;Composant;1;Doigt d'un Rocketeux;de Qualité Très Mauvaise [Membre];Spécial;0.5;0;99999
+4077084;0;Potion;1;PufPuff;;Vue : -1 | Effet de Zone;5;0;30
+1255206;0;Arme (2 mains);1;Hache de guerre en os;;ATT : -4 | DEG : +6;25;0;300
+1418214;0;Arme (2 mains);1;Chaîne Cloutée;;ATT : -2 | ESQ : +1 | DEG : +4;35;0;250
+4600744;0;Potion;1;Sinne Khole;;RM : +28 % | MM : -26 %;5;0;40
+4597471;0;Arme (1 main);1;Epée Courte;;DEG : +2;10;0;250
+4490883;0;Composant;1;Sang d'un Molosse Satanique;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4497816;0;Composant;1;Griffe d'un Mouch'oo Sauvage;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4584706;0;Composant;1;Sang d'un Shai;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4531766;0;Composant;1;Patte d'un Abishaii Rouge;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+4560337;0;Composant;1;Main d'un Géant de Pierre;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4615553;0;Composant;1;Langue-Fouet d'un Mouch'oo Sauvage;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4587897;0;Composant;1;Tripes d'un Shai;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4615552;0;Casque;1;Casque en cuir;;Armure : +1 | RM : +10 %;5;0;150
+4584705;0;Arme (2 mains);1;Chaîne Cloutée;de l'Aigle;ATT : -2\+1 | ESQ : +1 | DEG : +4 | Vue : +1;35;0;99999
+2726482;0;Composant;1;Tripes d'un Diablotin;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4553592;0;Composant;1;Sang d'un Hellrot;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4566445;0;Composant;1;Jambe d'un Ettin;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4351085;0;Composant;1;Croc d'un Worg;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+4488524;0;Composant;1;Patte d'un Abishaii Noir;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4574463;0;Composant;1;Aile d'un Abishaii Rouge;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+4591447;0;Composant;1;Tripes d'un Shai;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+2831163;0;Composant;1;Venin d'une Mante Fulcreuse;de Qualité Très Mauvaise [Spécial];Spécial;0.5;0;99999
+4599281;0;Composant;1;Sang d'un Hellrot;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4540031;0;Composant;1;Langue d'un Abishaii Bleu;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+4486631;0;Composant;1;Lèvre Pulpeuse d'une Succube;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+4513570;0;Composant;1;Peau d'une Banshee;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4503110;0;Composant;1;Griffe d'un Shai;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4426260;0;Composant;1;Griffe d'un Diablotin;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4670437;0;Arme (2 mains);1;Chaîne Cloutée;;ATT : -2 | ESQ : +1 | DEG : +4;35;0;250
+4388770;0;Composant;1;Doigt d'un Minotaure;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4634036;0;Bottes;1;Jambières en os;;ESQ : -1 | Armure : +2 | RM : +6 %;10;0;150
+4636632;0;Arme (1 main);1;Boulet et chaîne;;ATT : -3 | DEG : +5;15;0;350
+4654959;0;Composant;1;Queue d'un Abishaii Bleu;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4335728;0;Composant;1;Coeur d'un Abishaii Bleu;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+4634037;0;Composant;1;Peau d'un Shai;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4617859;0;Composant;1;Oeil d'un Abishaii Vert;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4659121;0;Arme (1 main);1;Lame d'Obsidienne;des Cyclopes et de l'Aigle;ATT : +2\+2 | DEG : +6\+1 | REG : -3 | RM : -57 % | MM : -18 %;20;57256;0
+4651256;0;Armure;1;Cuirasse d'écailles;;ESQ : -3 | Armure : +6 | RM : +52 %;60;0;400
+4183129;0;Arme (1 main);1;Lame en pierre;;ATT : -2 | DEG : +4;20;0;250
+3133759;0;Bouclier;1;Rondache en bois;du Roc;Armure : +1\+1;15;0;99999
+4642005;0;Composant;1;Carapace d'une Coccicruelle;de Qualité Mauvaise [Spécial];Spécial;0.5;0;99999
+4546289;0;Composant;1;Sabot d'un Cheval à Dents de Sabre;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4426259;0;Potion;1;Zet Crakdedand;;ATT : -1 D3 | ESQ : -1 D3 | Vue : -1 | PV : +2 D3;5;0;60
+4122081;0;Parchemin;1;Rune des Cyclopes;;ATT : +2 D3 | DEG : +2 D3 | Vue : -2;2.5;0;60
+4570400;0;Composant;1;Oeil d'un Shai;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4524797;0;Composant;1;Queue d'un Carnosaure;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4428276;0;Potion;1;Métomol;;TOUR : -20 min | Armure : -4;5;0;50
+4494425;0;Composant;1;Oeil Rougeoyant d'un Crasc Médius;de Qualité Mauvaise [Spécial];Spécial;0.5;0;99999
+4064777;0;Parchemin;1;Rune des Cyclopes;;ATT : +2 D3 | DEG : +2 D3 | Vue : -2;2.5;0;60
+4566624;0;Potion;1;Sinne Khole;;RM : +26 % | MM : -22 %;5;0;40
+4467350;0;Parchemin;1;Traité de Clairvoyance;;Vue : +3 | TOUR : -90 min;2.5;0;70
+4654958;0;Arme (1 main);1;Epée Longue;;ATT : -2 | DEG : +4;20;0;300
+4570399;0;Arme (1 main);1;Lame d'Obsidienne;;ATT : +2 | DEG : +6 | REG : -3 | RM : -39 % | MM : -16 %;20;0;500
+4446061;0;Armure;1;Haubert de mailles;;ESQ : -4 | Armure : +9 | RM : +64 %;90;0;1000
+4636633;0;Composant;1;Mandibule d'une Coccicruelle;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+4626175;0;Composant;1;Croc d'un Carnosaure;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+4626174;0;Potion;1;Elixir de Feu;;ESQ : +5 D3 | Vue : +5;5;0;50
+2058337;0;Casque;1;Casque à cornes;;ESQ : -1 | DEG : +1 | Vue : -1 | Armure : +3 | RM : +10 %;10;0;9999
+4673787;0;Composant;1;Oeil d'un Abishaii Rouge;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4679296;0;Composant;1;Oeil Langoureux d'une Succube;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+4679295;0;Potion;1;Elixir de Feu;;ESQ : +3 D3 | Vue : +3;5;0;50
+4112184;0;Potion;1;Elixir de Feu;;ESQ : +5 D3 | Vue : +5;5;0;50
+4763844;0;Composant;1;Dent de Sabre Chevalin d'un Cheval à Dents de Sabre;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+4683614;0;Composant;1;Aile d'un Abishaii Noir;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4746597;0;Composant;1;Oeil d'une Coccicruelle;de Qualité Très Bonne [Tête];Spécial;0.5;0;99999
+4795284;0;Composant;1;Sabot d'un Cheval à Dents de Sabre;de Qualité Très Bonne [Membre];Spécial;0.5;0;99999
+4814980;0;Composant;1;Patte d'un Cheval à Dents de Sabre;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4690986;0;Composant;1;Thorax d'une Coccicruelle;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4712867;0;Composant;1;Sang d'un Abishaii Rouge;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4800396;0;Composant;1;Cervelle d'un Cheval à Dents de Sabre;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4840248;0;Composant;1;Sang d'un Shai;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4726487;0;Composant;1;Aile d'un Abishaii Bleu;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+4869248;0;Composant;1;Doigt d'un Géant des Gouffres;de Qualité Très Bonne [Membre];Spécial;0.5;0;99999
+4810178;0;Composant;1;Os d'un Abishaii Bleu;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4651822;0;Potion;1;Toxine Violente;;PV : -2 D3;5;0;40
+4576397;0;Composant;1;Oeil d'une Gorgone;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+4720884;0;Arme (1 main);1;Epée Longue;de l'Aigle;ATT : -2\+1 | DEG : +4 | Vue : +1;20;0;99999
+4650589;0;Composant;1;Coeur d'une Sorcière;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4651823;0;Composant;1;Tripes d'un Carnosaure;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+4688532;0;Composant;1;Carapace d'une Coccicruelle;de Qualité Mauvaise [Spécial];Spécial;0.5;0;99999
+4802003;0;Composant;1;Sang d'un Glouton;de Qualité Très Bonne [Spécial];Spécial;0.5;0;99999
+4467351;0;Composant;1;Aile d'un Abishaii Noir;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+4503109;0;Potion;1;Essence de KouleMann;;REG : +1 | Vue : +1;5;0;40
+4651841;0;Composant;1;Coeur Tendre d'une Succube;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+4836292;0;Potion;1;Sortilège usage unique : Glue;;Spécial;5;0;99999
+4864996;0;Composant;1;Viscères d'un Crasc Médius;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+4807862;0;Composant;1;Oeil d'un Abishaii Rouge;de Qualité Très Bonne [Tête];Spécial;0.5;0;99999
+4423557;0;Composant;1;Poil d'un Trancheur;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4582695;0;Composant;1;Tripes d'une Chimère;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4627827;0;Composant;1;Spore d'un Fungus Violet;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+4844144;0;Composant;1;Jambe d'une Sorcière;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+4843180;0;Composant;1;Sang d'un Shai;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4650588;0;Armure;1;Armure de bois;des Vampires;ATT : +0\+1 | ESQ : -3 | REG : +1 | Armure : +5 | RM : +38 %;50;0;99999
+4626321;0;Composant;1;Bulbe d'un Fungus Violet;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+4774361;0;Composant;1;Ongle d'un Géant des Gouffres;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+4851837;0;Composant;1;Mandibule d'une Coccicruelle;de Qualité Mauvaise [Spécial];Spécial;0.5;0;99999
+4797206;0;Composant;1;Langue d'un Naga;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+4786785;0;Potion;1;Zet Crakdedand;;ATT : -2 D3 | ESQ : -2 D3 | Vue : -1 | PV : +4 D3;5;0;60
+4790330;0;Composant;1;Os d'un Shai;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4664064;0;Composant;1;Sang d'un Yuan-ti;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4373595;0;Composant;1;Cuisse d'un Kobold;de Qualité Très Bonne [Membre];Spécial;0.5;0;99999
+4760174;0;Composant;1;Queue d'un Crasc Médius;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4652408;0;Composant;1;Tripes d'un Shai;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4847603;0;Composant;1;Dent d'un Abishaii Vert;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+4805898;0;Composant;1;Serre d'un Abishaii Bleu;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+4347519;0;Potion;1;Métomol;;TOUR : -30 min | Armure : -6;5;0;60
+4669304;0;Composant;1;Tête d'un Naga;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+4820301;0;Composant;1;Poil d'un Trancheur;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4850815;0;Composant;1;Mandibule d'une Coccicruelle;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+4683613;0;Parchemin;1;Idées Confuses;;ATT : -4 D3 | TOUR : +120 min;2.5;0;50
+4762430;0;Composant;1;Lymphe d'une Coccicruelle;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4674492;0;Composant;1;Racine d'un Bouj'Dla;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+4724701;0;Composant;1;Os d'un Shai;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4465784;0;Composant;1;Griffe d'un Shai;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4849881;0;Composant;1;Epine d'un Bouj'Dla;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+4598218;0;Composant;1;Coeur d'un Tigre-Garou;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4875514;0;Composant;1;Croc d'un Ours-Garou;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4788781;0;Composant;1;Tripes d'un Shai;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4798763;0;Composant;1;Cervelle d'un Palefroi Infernal;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4787005;0;Composant;1;Fourrure d'un Glouton;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4723052;0;Composant;1;Langue d'une Sorcière;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4710533;0;Composant;1;Cuir d'un Crasc Médius;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+4647480;0;Composant;1;Peau d'un Molosse Satanique;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4323938;0;Potion;1;Sortilège usage unique : Télékinésie;;Spécial;5;0;99999
+4786786;0;Composant;1;Dent Blanche d'un Incube;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+4785354;0;Composant;1;Dent Blanche d'un Incube;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4576396;0;Potion;1;Sinne Khole;;RM : +32 % | MM : -38 %;5;0;40
+4790329;0;Arme (2 mains);1;Baton Lesté;de l'Aigle;ATT : +2\+1 | DEG : -1 | Vue : +1;7.5;0;99999
+4818347;0;Composant;1;Epine d'un Bouj'Dla;de Qualité Mauvaise [Spécial];Spécial;0.5;0;99999
+4736381;0;Composant;1;Cervelle d'un Carnosaure;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+4767779;0;Composant;1;Patte d'un Abishaii Rouge;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+4652094;0;Composant;1;Serre d'un Abishaii Bleu;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4837168;0;Potion;1;Zet Crakdedand;;ATT : -1 D3 | ESQ : -1 D3 | Vue : -1 | PV : +2 D3;5;0;60
+4575846;0;Composant;1;Serre d'un Abishaii Rouge;de Qualité Très Mauvaise [Membre];Spécial;0.5;0;99999
+4749798;0;Composant;1;Cuisse d'un Goblin;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+4803847;0;Composant;1;Dent d'un Abishaii Vert;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4656048;0;Composant;1;Main d'un Diablotin;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+4384323;0;Potion;1;Elixir de Corruption;;ATT : +5 D3 | ESQ : -5 D3 | DEG : +5 D3 | REG : -5 | Vue : -5 | Armure : +5 | RM : -8 % | MM : -8 %;5;0;90
+4697037;0;Composant;1;Furoncle d'un Hellrot;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+4709126;0;Composant;1;Verrue d'un Hellrot;de Qualité Bonne [Spécial];Spécial;0.5;0;99999
+4657755;0;Composant;1;Os d'un Abishaii Bleu;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+4747331;0;Composant;1;Dent d'un Goblin;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4928110;0;Potion;1;Elixir de Corruption;;ATT : +6 D3 | ESQ : -6 D3 | DEG : +6 D3 | REG : -6 | Vue : -6 | Armure : +6 | RM : -12 % | MM : -12 %;5;0;90
+4864159;0;Composant;1;Tête d'un Mouch'oo Majestueux Sauvage;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4978729;0;Composant;1;Mandibule d'une Strige;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+4898432;0;Composant;1;Queue d'un Abishaii Vert;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4869086;0;Composant;1;Patte d'un Abishaii Bleu;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+4824152;0;Parchemin;1;Plan Génial;;ATT : +2 D3 | DEG : +2 D3 | TOUR : -30 min;2.5;0;60
+4914140;0;Composant;1;Griffe d'un Carnosaure;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4978728;0;Armure;1;Culotte en Cuir;;ESQ : +1;2.5;0;50
+4898238;0;Potion;1;Zet Crakdedand;;ATT : -3 D3 | ESQ : -3 D3 | Vue : -1 | PV : +6 D3;5;0;60
+4920129;0;Composant;1;Dent d'un Xorn;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4826849;0;Potion;1;Jus de Chronomètre;;TOUR : -30 min;5;0;30
+4901468;0;Talisman;1;Talisman de pierre;;REG : -1 | RM : +15 % | MM : +14 %;2.5;0;150
+4875513;0;Potion;1;Sinne Khole;;RM : +20 % | MM : -17 %;5;0;40
+4805897;0;Potion;1;Zet Crakdedand;;ATT : -3 D3 | ESQ : -3 D3 | Vue : -1 | PV : +6 D3;5;0;60
+4805145;0;Potion;1;Sang de Toh Réroh;;ATT : +2 D3 | ESQ : +2 D3;5;0;75
+4896817;0;Composant;1;Tête d'un Mouch'oo Sauvage;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4846491;0;Potion;1;PufPuff;;ATT : -1 D3 | ESQ : -1 D3 | Vue : -2 | Effet de Zone;5;0;50
+4892371;0;Composant;1;Os d'un Shai;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4912766;0;Arme (2 mains);1;Bâtons de Parade;;ATT : -4 | ESQ : +2 | Armure : +2;7.5;0;250
+203901;0;Casque;1;Heaume;;ATT : -1 | Vue : -2 | Armure : +4 | RM : +15 %;20;0;99999
+4891823;0;Composant;1;Os d'un Géant des Gouffres;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4788780;0;Arme (1 main);1;Epée Courte;;DEG : +2;10;0;250
+4878530;0;Composant;1;Main d'un Géant des Gouffres;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4937503;0;Bottes;1;Jambières en cuir;;Armure : +1 | RM : +7 %;10;0;100
+4934169;0;Composant;1;Cuisse d'un Yuan-ti;de Qualité Très Bonne [Membre];Spécial;0.5;0;99999
+4798762;0;Arme (1 main);1;Masse d'Arme;;ATT : -1 | DEG : +3;15;0;250
+4843179;0;Bouclier;1;Gros'Porte;;ESQ : -1 | Armure : +5 | RM : +14 %;50;0;500
+4897025;0;Composant;1;Thorax d'une Coccicruelle;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+2625500;0;Bottes;1;Jambières en fourrure;;Armure : +1 | RM : +10 %;2.5;0;150
+4920214;0;Composant;1;Patte d'un Shai;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4844123;0;Arme (1 main);1;Epée Longue;;ATT : -2 | DEG : +4;20;0;300
+4844143;0;Arme (2 mains);1;Espadon;;ATT : -6 | DEG : +8;40;0;350
+4924765;0;Composant;1;Pronotum Coloré d'une Coccicruelle;de Qualité Mauvaise [Spécial];Spécial;0.5;0;99999
+4917493;0;Composant;1;Patte d'un Abishaii Rouge;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4924764;0;Bouclier;1;Bouclier à Pointes;;ATT : +1 | ESQ : -1 | DEG : +1 | Armure : +4;35;0;450
+949688;0;Arme (2 mains);1;Chaîne Cloutée;;ATT : -2 | ESQ : +1 | DEG : +4;35;0;250
+4948051;0;Composant;1;Oeil d'un Géant des Gouffres Affreux;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+4931601;0;Potion;1;Sinne Khole Poil de Gaspar;;RM : +90 % | MM : -95 %;5;0;100
+4264378;0;Composant;1;Queue d'un Crasc Maexus;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4850814;0;Potion;1;Métomol;;TOUR : -10 min | Armure : -2;5;0;25
+4828244;0;Potion;1;Elixir de Feu;;ESQ : +3 D3 | Vue : +3;5;0;50
+4869246;0;Parchemin;1;Rune des Foins;;DEG : -2 D3 | Vue : -1 | PV : -2 D3;2.5;0;50
+4526010;0;Potion;1;Sortilège usage unique : Flash Aveuglant;;Spécial;5;0;99999
+4800395;0;Potion;1;Elixir de Fertilité;;ATT : +3 D3 | DEG : +3 D3;5;0;50
+4989036;0;Composant;1;Sang d'un Tigre-Garou;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4465783;0;Potion;1;Sortilège usage unique : Bulle Anti-Magie;;Spécial;5;0;9999
+4989035;0;Potion;1;Extrait du Glacier;;REG : +3 | Armure : +3;5;0;70
+4946476;0;Bouclier;1;Rondache en bois;;ESQ : +1 | Armure : +1;15;0;100
+4946695;0;Composant;1;Cervelle d'un Mouch'oo Sauvage;de Qualité Très Bonne [Tête];Spécial;0.5;0;99999
+4936600;0;Composant;1;Queue d'un Abishaii Bleu;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+4911555;0;Bottes;1;Jambières en cuir;;Armure : +1 | RM : +10 %;10;0;100
+4939548;0;Composant;1;Cervelle d'un Shai;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+5004472;0;Bottes;1;Bottes;;ESQ : +2;5;0;75
+4998745;0;Potion;1;Dover Powa;;RM : -14 % | MM : +17 %;5;0;50
+4716206;0;Potion;1;Elixir de Fertilité;;ATT : +4 D3 | DEG : +4 D3;5;0;50
+5024250;0;Parchemin;1;Rune des Cyclopes;;ATT : +5 D3 | DEG : +5 D3 | Vue : -5;2.5;0;60
+4939547;0;Potion;1;Zet Crakdedand;;ATT : -3 D3 | ESQ : -3 D3 | Vue : -1 | PV : +6 D3;5;0;60
+4890902;0;Composant;1;Aile d'une Banshee;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+4890901;0;Potion;1;Jus de Chronomètre;;TOUR : -30 min;5;0;30
+3227354;0;Potion;1;Elixir de Bonne Bouffe;;DEG : +3 D3 | REG : +3;5;0;55
+4490882;0;Potion;1;Elixir de Bonne Bouffe;;DEG : +4 D3 | REG : +4;5;0;60
+5003222;0;Parchemin;1;Rune Explosive;;PV : -2 D3 | Effet de Zone;2.5;0;40
+4560336;0;Potion;1;Sortilège usage unique : Voir le Caché;;Spécial;5;0;99999
+3109337;0;Potion;1;Elixir de Fertilité;;ATT : +3 D3 | DEG : +3 D3;5;0;50
+4398943;0;Potion;1;Sang de Toh Réroh;;ATT : +2 D3 | ESQ : +2 D3;5;0;75
+4936599;0;Potion;1;Voï'Pu'Rin;;Vue : -30;5;0;99999
+4494054;0;Potion;1;Dover Powa;;RM : -36 % | MM : +54 %;5;0;50
+5018694;0;Talisman;1;Gorgeron en métal;;REG : -1 | Armure : +2;5;0;100
+4632492;0;Potion;1;Dover Powa;;RM : -16 % | MM : +13 %;5;0;50
+4668012;0;Potion;1;Elixir de Fertilité;;ATT : +4 D3 | DEG : +4 D3;5;0;50
+4690985;0;Potion;1;Elixir de Fertilité;;ATT : +3 D3 | DEG : +3 D3;5;0;50
+4750686;0;Potion;1;PufPuff;;ATT : -1 D3 | ESQ : -1 D3 | Vue : -2 | Effet de Zone;5;0;50
+4664063;0;Potion;1;Elixir de Longue-Vue;;Vue : +3;5;0;10
+4705797;0;Parchemin;1;Plan Génial;;ATT : +3 D3 | DEG : +3 D3 | TOUR : -45 min;2.5;0;60
+4694034;0;Potion;1;Essence de KouleMann;;REG : +2 | Vue : +2;5;0;40
+5003223;0;Composant;1;Tripes d'un Abishaii Rouge;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4731397;0;Composant;1;Verrue d'une Sorcière;de Qualité Bonne [Spécial];Spécial;0.5;0;99999
+5071362;0;Parchemin;1;Rune des Cyclopes;;ATT : +3 D3 | DEG : +3 D3 | Vue : -3;2.5;0;60
+4965973;0;Composant;1;Cervelle d'un Hellrot;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+4922480;0;Arme (1 main);1;Gantelet;;ATT : -2 | ESQ : +1 | DEG : +1 | Armure : +2;7.5;0;350
+4983782;0;Composant;1;Oeil d'une Bulette;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+4705798;0;Composant;1;Langue d'un Géant des Gouffres;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4668013;0;Composant;1;Sang d'un Cheval à Dents de Sabre;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4943317;0;Bouclier;1;Rondache en bois;;ESQ : +1 | Armure : +1;15;0;100
+4750687;0;Composant;1;Sang d'un Abishaii Rouge;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4907986;0;Talisman;1;Collier de pierre;;RM : +8 % | MM : +6 %;2.5;0;75
+4943312;0;Composant;1;Tripes d'un Pseudo-Dragon;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+4002524;0;Potion;1;Jus de Chronomètre;;TOUR : -30 min;5;0;30
+4710532;0;Potion;1;Zet Crakdedand;;ATT : -5 D3 | ESQ : -5 D3 | Vue : -1 | PV : +10 D3;5;0;200
+4943311;0;Potion;1;Voï'Pu'Rin;;Vue : -10;5;0;99999
+4113053;0;Potion;1;Potion de Guérison;;PV : +2 D3;5;0;40
+4996174;0;Composant;1;Elytres Colorées d'une Coccicruelle;de Qualité Très Bonne [Spécial];Spécial;0.5;0;99999
+4996173;0;Armure;1;Pagne en Cuir;;ESQ : +2 | Armure : -1;5;0;100
+5046289;0;Composant;1;Cou d'un Shai;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+5018695;0;Composant;1;Griffe Tentatrice d'une Succube;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4999073;0;Composant;1;Griffe d'un Shai;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+5019900;0;Composant;1;Oeil Rougeoyant d'un Crasc;de Qualité Très Bonne [Spécial];Spécial;0.5;0;99999
+5007398;0;Composant;1;Sang d'un Carnosaure;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4853173;0;Composant;1;Peau d'un Trancheur;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4872756;0;Composant;1;Langue d'un Behir;de Qualité Très Bonne [Tête];Spécial;0.5;0;99999
+4771479;0;Composant;1;Sang d'un Glouton;de Qualité Bonne [Spécial];Spécial;0.5;0;99999
+4961144;0;Composant;1;Jambe d'un Titan;de Qualité Très Bonne [Membre];Spécial;0.5;0;99999
+4849724;0;Composant;1;Peau d'un Behir;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4931602;0;Composant;1;Lymphe d'une Coccicruelle;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+5004440;0;Arme (1 main);1;Lame d'Obsidienne;;ATT : +2 | DEG : +6 | REG : -3 | RM : -48 % | MM : -17 %;20;0;500
+4956584;0;Composant;1;Tentacule Digital d'un Flagelleur Mental;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+5015697;0;Composant;1;Serre d'une Banshee;de Qualité Très Mauvaise [Membre];Spécial;0.5;0;99999
+5060362;0;Armure;1;Tunique d'écailles;du Rat;Armure : +3 | RM : +27 %;30;0;99999
+4945403;0;Composant;1;Crin d'un Cheval à Dents de Sabre;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+5049907;0;Casque;1;Casque à Pointes;;ATT : +1 | DEG : +1 | Vue : -1 | Armure : +3;12.5;0;99999
+5072926;0;Armure;1;Haubert d'écailles;;ESQ : -4 | Armure : +8 | RM : +68 %;80;0;750
+2736725;0;Armure;1;Cuir Bouilli;;ESQ : -1 | Armure : +3 | RM : +32 %;17.5;0;300
+5025387;0;Composant;1;Main d'un Ettin;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+5037286;0;Arme (1 main);1;Boulet et chaîne;;ATT : -3 | DEG : +5;15;0;350
+4926334;0;Composant;1;Thorax d'une Coccicruelle;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4838318;0;Composant;1;Oeil d'un Diablotin;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4907988;0;Composant;1;Queue d'un Cheval à Dents de Sabre;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4967770;0;Composant;1;Oeil d'un Shai;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4989005;0;Bottes;1;Jambières en fourrure;;Armure : +1 | RM : +6 %;2.5;0;150
+4991152;0;Arme (1 main);1;Epée Longue;;ATT : -2 | DEG : +4;20;0;300
+3678929;0;Anneau;1;Anneau de Protection contre <b>Aura de Feu</b>;;Protection;12;0;99999
+4678482;0;Anneau;1;Anneau de Protection contre <b>Charme</b>;;Protection;6.5;0;99999
+4668792;0;Composant;1;Dards d'un Nuage d'Insectes;de Qualité Mauvaise [Spécial];Spécial;0.5;0;99999
+4787860;0;Composant;1;Tripes d'une Chimère;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+4674148;0;Composant;1;Peau d'un Anaconda des Catacombes;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+5119636;0;Champignon;1;Girolle Sanglante;Salé;Spécial;0.5;0;99999
+4795536;0;Composant;1;Cervelle d'un Molosse Satanique;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4755708;0;Composant;1;Mycélium d'un Fungus Violet;de Qualité Très Mauvaise [Spécial];Spécial;0.5;0;99999
+4381986;0;Parchemin;1;Rune des Foins;;DEG : -3 D3 | Vue : -1 | PV : -4 D3;2.5;0;50
+5122225;0;Champignon;1;Girolle Sanglante;Acide;Spécial;0.5;0;99999
+4738040;0;Potion;1;Sortilège usage unique : Voir le Caché;;Spécial;5;0;99999
+4650350;0;Composant;1;Cervelle d'un Rat-Garou;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+4695581;0;Composant;1;Pattes d'un Nuage d'Insectes;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+5122215;0;Champignon;1;Girolle Sanglante;Acide;Spécial;0.5;0;99999
+5119635;0;Champignon;1;Girolle Sanglante;Acide;Spécial;0.5;0;99999
+4729975;0;Arme (2 mains);1;Bâtons de Parade;;ATT : -4 | ESQ : +2 | Armure : +2;7.5;0;250
+4755707;0;Parchemin;1;Rune des Foins;;DEG : -2 D3 | Vue : -1 | PV : -2 D3;2.5;0;50
+4695580;0;Parchemin;1;Rune des Cyclopes;;ATT : +2 D3 | DEG : +2 D3 | Vue : -2;2.5;0;60
+4712393;0;Composant;1;Sang d'un Minotaure;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+5112052;0;Champignon;1;Girolle Sanglante;Acide;Spécial;0.5;0;99999
+3729299;0;Parchemin;1;Rune des Foins;;DEG : -3 D3 | Vue : -1 | PV : -4 D3;2.5;0;50
+4443939;0;Arme (2 mains);1;Baton Lesté;du Rat;ATT : +2 | ESQ : +1 | DEG : -1;7.5;0;99999
+5189189;0;Composant;1;Griffe d'un Worg;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+4831387;0;Parchemin;1;Rune des Foins;;DEG : -2 D3 | Vue : -1 | PV : -2 D3;2.5;0;50
+4926333;0;Potion;1;PufPuff;;Vue : -1 | Effet de Zone;5;0;50
+4838317;0;Potion;1;Sinne Khole;;RM : +20 % | MM : -17 %;5;0;40
+5096400;0;Arme (2 mains);1;Bâtons de Parade;;ATT : -4 | ESQ : +2 | Armure : +2;7.5;0;250
+4974141;0;Composant;1;Patte d'un Abishaii Rouge;de Qualité Très Bonne [Membre];Spécial;0.5;0;99999
+5164121;0;Bouclier;1;Rondache en métal;;ESQ : +1 | Armure : +2;30;0;150
+5144250;0;Casque;1;Casque en métal;en Mithril;Vue : -1 | Armure : +2 | RM : +6 %;5;0;99999
+5049908;0;Composant;1;Cuisse d'un Géant des Gouffres;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+5107052;0;Arme (1 main);1;Epée Courte;en Mithril;DEG : +2;5;0;99999
+5047389;0;Composant;1;Dent de Sabre Chevalin d'un Cheval à Dents de Sabre;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+3685319;0;Bottes;1;Bottes;;ESQ : +2;5;0;75
+4945401;0;Potion;1;PufPuff;;ATT : -2 D3 | ESQ : -2 D3 | Vue : -3 | PV : -2 D3 | Effet de Zone;5;0;50
+4969607;0;Parchemin;1;Plan Génial;;ATT : +4 D3 | DEG : +4 D3 | TOUR : -60 min;2.5;0;60
+4977696;0;Composant;1;Lymphe d'une Coccicruelle;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+5105452;0;Talisman;1;Collier à Pointes;;ESQ : -1 | DEG : +1 | Armure : +1;2.5;0;100
+4888225;0;Composant;1;Oeil d'un Géant des Gouffres;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+4820299;0;Bouclier;1;Rondache en bois;;ESQ : +1 | Armure : +1;15;0;100
+4872755;0;Bottes;1;Jambières en os;;ESQ : -1 | Armure : +2 | RM : +6 %;10;0;150
+4588554;0;Bouclier;1;Bouclier à Pointes;de Résistance;ATT : +1 | ESQ : -1 | DEG : +1 | Armure : +4\+1;35;0;99999
+4820300;0;Talisman;1;Collier à Pointes;;ESQ : -1 | DEG : +1 | Armure : +1;2.5;0;100
+5080915;0;Composant;1;Cervelle d'un Cheval à Dents de Sabre;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+3451032;0;Armure;1;Tunique d'écailles;;ESQ : -1 | Armure : +3 | RM : +28 %;30;0;250
+5227445;0;Armure;1;Armure d'Anneaux;;ESQ : -8 | Armure : +8 | RM : +180 %;80;0;900
+4890693;0;Arme (1 main);1;Crochet;;ATT : -2 | DEG : +3;12.5;0;200
+5064800;0;Armure;1;Tunique d'écailles;;ESQ : -1 | Armure : +3 | RM : +27 %;30;0;250
+3584582;0;Armure;1;Armure de Cuir;;Armure : +2 | RM : +20 %;10;0;250
+5098227;0;Potion;1;Elixir de Longue-Vue;;Vue : +1;5;0;10
+5229425;0;Composant;1;Tripes d'un Monstre Rouilleur;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+5241921;0;Composant;1;Coeur d'un Gremlins;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+5106644;0;Composant;1;Omoplate d'un Squelette;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+5241920;0;Arme (2 mains);1;Espadon;;ATT : -6 | DEG : +8;40;0;350
+5227446;0;Composant;1;Sang d'un Gremlins;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+5233415;0;Composant;1;Doigt d'un Kobold;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+5102134;0;Composant;1;Poil d'un Rat Géant;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+5020306;0;Potion;1;Sortilège usage unique : Vision lointaine;;Spécial;5;0;99999
+5224740;0;Composant;1;Coeur d'un Gremlins;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+5219651;0;Composant;1;Bec d'une Cockatrice;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+1896985;0;Armure;1;Armure de peaux;;ESQ : -2 | Armure : +4 | RM : +48 %;45;0;400
+2272908;0;Arme (1 main);1;Epée Courte;;DEG : +2;10;0;250
+3755440;0;Arme (2 mains);1;Baton Lesté;;ATT : +2 | DEG : -1;7.5;0;200
+3008945;0;Armure;1;Armure de bois;;ESQ : -3 | Armure : +5 | RM : +50 %;50;0;400
+2282566;0;Armure;1;Pagne en Cuir;;ESQ : +2 | Armure : -1;5;0;100
+5294740;0;Composant;1;Sang d'un Goblin;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+1592880;0;Bouclier;1;Gros'Porte;;ESQ : -1 | Armure : +5 | RM : +17 %;50;0;500
+3144101;0;Talisman;1;Gorgeron en métal;;REG : -1 | Armure : +2;5;0;100
+5233414;0;Potion;1;Elixir de Fertilité;;ATT : +3 D3 | DEG : +3 D3;5;0;50
+5214220;0;Potion;1;Essence de KouleMann;;REG : +3 | Vue : +3 | PV : +2 D3;5;0;50
+4795535;0;Potion;1;Sang de Toh Réroh;;ATT : +3 D3 | ESQ : +3 D3 | Vue : +1;5;0;80
+5079374;0;Potion;1;Extrait du Glacier;;REG : +3 | Armure : +3;5;0;70
+4581239;0;Composant;1;Sang d'un Lézard Géant;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+2585360;0;Talisman;1;Talisman de pierre;;REG : -1 | RM : +11 % | MM : +20 %;2.5;0;99999
+4657132;0;Parchemin;1;Plan Génial;;ATT : +1 D3 | DEG : +1 D3 | TOUR : -15 min;2.5;0;60
+5102133;0;Parchemin;1;Idées Confuses;;ATT : -1 D3 | TOUR : +30 min;2.5;0;50
+4715315;0;Parchemin;1;Plan Génial;;ATT : +1 D3 | DEG : +1 D3 | TOUR : -15 min;2.5;0;60
+5317292;0;Parchemin;1;Traité de Clairvoyance;;Vue : +2 | TOUR : -60 min;2.5;0;70
+5297631;0;Parchemin;1;Idées Confuses;;ATT : -1 D3 | TOUR : +30 min;2.5;0;50
+4970377;0;Parchemin;1;Rune des Foins;;DEG : -1 D3 | Vue : -1 | PV : -2 D3;2.5;0;50
+4617858;0;Parchemin;1;Traité de Clairvoyance;;Vue : +1 | TOUR : -30 min;2.5;0;70
+4533228;0;Parchemin;1;Idées Confuses;;ATT : -1 D3 | TOUR : +30 min;2.5;0;50
+3586255;0;Arme (1 main);1;Fouet;;ATT : +4 | DEG : -2;7.5;0;250
+5321668;0;Armure;1;Haubert d'écailles;des Tortues;ESQ : -4 | TOUR : +30 min | Armure : +8\+2 | RM : +64 %;80;0;99999
+5339912;0;Armure;1;Cuirasse d'Ossements;;ESQ : -3 | Armure : +5 | RM : +18 % | MM : +26 %;67.5;0;450
+4844204;0;Bouclier;1;Rondache en métal;;ESQ : +1 | Armure : +2;30;0;150
+5383200;0;Bouclier;1;Rondache en métal;;ESQ : +1 | Armure : +2;30;0;150
+5339913;0;Armure;1;Tunique;;ESQ : +1 | RM : +10 % | MM : +10 %;2.5;0;100
+5244543;0;Armure;1;Cuir Bouilli;;ESQ : -1 | Armure : +3 | RM : +28 %;17.5;0;300
+5460342;0;Potion;1;Elixir de Feu;;ESQ : +3 D3 | Vue : +3;5;0;50
+5455910;0;Armure;1;Tunique;;ESQ : +1 | RM : +10 % | MM : +9 %;2.5;0;100
+5455911;0;Composant;1;Epine d'une Plante Carnivore;de Qualité Très Mauvaise [Spécial];Spécial;0.5;0;99999
+5528109;0;Parchemin;1;Rune Explosive;;PV : -2 D3 | Effet de Zone;2.5;0;40
+5238575;0;Potion;1;Zet Crakdedand;;ATT : -3 D3 | ESQ : -3 D3 | Vue : -1 | PV : +6 D3;5;0;60
+5130218;0;Composant;1;Os d'un Abishaii Rouge;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+5318772;0;Potion;1;Elixir de Feu;;ESQ : +3 D3 | Vue : +3;5;0;50
+5392743;0;Composant;1;Poil d'un Rat Géant;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4148600;0;Composant;1;Oeil d'un Abishaii Vert;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+4945112;0;Potion;1;Dover Powa;;RM : -14 % | MM : +18 %;5;0;50
+4747330;0;Potion;1;Jus de Chronomètre;;TOUR : -90 min;5;0;90
+5394757;0;Talisman;1;Collier de pierre;;RM : +10 % | MM : +8 %;2.5;0;1000
+5118034;0;Potion;1;Potion de Guérison;;PV : +2 D3;5;0;40
+5324281;0;Potion;1;Métomol;;TOUR : -20 min | Armure : -4;5;0;50
+5349579;0;Parchemin;1;Rune des Cyclopes;;ATT : +5 D3 | DEG : +5 D3 | Vue : -5;2.5;0;60
+5324283;0;Composant;1;Serre d'un Abishaii Rouge;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+5225370;0;Composant;1;Tripes d'un Gremlins;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+5223710;0;Parchemin;1;Plan Génial;;ATT : +3 D3 | DEG : +3 D3 | TOUR : -45 min;2.5;0;60
+5318773;0;Composant;1;Langue d'un Abishaii Vert;de Qualité Très Bonne [Tête];Spécial;0.5;0;99999
+5433645;0;Arme (1 main);1;Lame d'Obsidienne;;ATT : +2 | DEG : +6 | REG : -3 | RM : -57 % | MM : -14 %;20;0;500
+5352682;0;Composant;1;Main d'un Djinn;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+5310811;0;Composant;1;Os d'un Carnosaure;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+5215844;0;Composant;1;Langue d'un Gremlins;de Qualité Très Bonne [Tête];Spécial;0.5;0;99999
+5276003;0;Composant;1;Aile d'un Abishaii Bleu;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+5427569;0;Composant;1;Tête d'une Gorgone;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+5213013;0;Composant;1;Cuisse d'un Gremlins;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+5280482;0;Composant;1;Dent d'un Abishaii Bleu;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+5002789;0;Composant;1;Aile Profilée d'une Succube;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+5339914;0;Composant;1;Patte d'un Grylle;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+5482580;0;Composant;1;Carapace d'un Scarabée Géant;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+5574806;0;Composant;1;Oeil d'un Worg;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+5588936;0;Composant;1;Thorax d'une Nuée de Vermine;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+4201299;0;Potion;1;Toxine Violente;;PV : -2 D3;5;0;40
+5469791;0;Parchemin;1;Rune Explosive;;PV : -2 D3 | Effet de Zone;2.5;0;40
+5469792;0;Composant;1;Bulbe d'un Fungus Géant;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+5571489;0;Composant;1;Cervelle d'un Worg;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+5254457;0;Parchemin;1;Plan Génial;;ATT : +1 D3 | DEG : +1 D3 | TOUR : -15 min;2.5;0;60
+5275232;0;Composant;1;Os d'une Banshee;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+5485819;0;Composant;1;Feuille d'un Bouj'Dla Placide;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+5420713;0;Composant;1;Tripes d'un Cheval à Dents de Sabre;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+5345898;0;Composant;1;Tripes d'un Trancheur;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+5252291;0;Composant;1;Cordes Vocales d'une Erinyes;de Qualité Mauvaise [Spécial];Spécial;0.5;0;99999
+5389792;0;Talisman;1;Collier à Pointes;;ESQ : -1 | DEG : +1 | Armure : +1;2.5;0;100
+5349580;0;Composant;1;Canine d'un Vampire;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+5254458;0;Composant;1;Doigt d'un Gremlins;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+5244544;0;Composant;1;Coeur d'un Gremlins;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+5250448;0;Composant;1;Antenne d'un Thri-kreen;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+5122313;0;Parchemin;1;Rune Explosive;;PV : -2 D3 | Effet de Zone;2.5;0;40
+5356065;0;Arme (1 main);1;Crochet;du Rat;ATT : -2 | ESQ : +1 | DEG : +3;12.5;0;99999
+5109937;0;Parchemin;1;Plan Génial;;ATT : +2 D3 | DEG : +2 D3 | TOUR : -30 min;2.5;0;60
+5353583;0;Composant;1;Cervelle d'un Shai;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+5268063;0;Parchemin;1;Idées Confuses;;ATT : -1 D3 | TOUR : +30 min;2.5;0;50
+5310810;0;Potion;1;Sortilège usage unique : Analyse Anatomique;;Spécial;5;0;99999
+4915412;0;Potion;1;Zet Crakdedand;;ATT : -4 D3 | ESQ : -4 D3 | Vue : -1 | PV : +8 D3;5;0;200
+4898431;0;Parchemin;1;Traité de Clairvoyance;;Vue : +3 | TOUR : -90 min;2.5;0;70
+4736380;0;Potion;1;Elixir de Corruption;;ATT : +7 D3 | ESQ : -7 D3 | DEG : +7 D3 | REG : -7 | Vue : -7 | Armure : +7 | RM : -22 % | MM : -21 %;5;0;90
+4481329;0;Potion;1;Elixir de Fertilité;;ATT : +4 D3 | DEG : +4 D3;5;0;50
+4849723;0;Potion;1;Extrait du Glacier;;REG : +4 | Armure : +4;5;0;70
+4578673;0;Potion;1;Dover Powa;;RM : -80 % | MM : +44 %;5;0;50
+2018756;0;Parchemin;1;Rune des Cyclopes;;ATT : +1 D3 | DEG : +1 D3 | Vue : -1;2.5;0;60
+2462436;0;Parchemin;1;Yeu'Ki'Pic;;Vue : -3 | Effet de Zone;2.5;0;40
+3900362;0;Parchemin;1;Invention Extraordinaire;;Aucune description disponible;2.5;0;99999
+5152774;0;Parchemin;1;Rune des Cyclopes;;ATT : +1 D3 | DEG : +1 D3 | Vue : -1;2.5;0;60
+5647867;0;Bottes;1;Jambières en maille;;ESQ : -1 | Armure : +3 | RM : +8 %;20;0;200
+5715261;0;Composant;1;Langue d'un Géant des Gouffres;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+5650977;0;Bottes;1;Bottes;;ESQ : +2;5;0;75
+5700826;0;Armure;1;Armure de Plates;;ESQ : -5 | Armure : +10 | RM : +85 %;100;0;1200
+5612305;0;Composant;1;Dent d'un Yéti;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+5665337;0;Composant;1;Dent d'un Abishaii Bleu;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+5682311;0;Arme (1 main);1;Lame d'Obsidienne;;ATT : +2 | DEG : +6 | REG : -3 | RM : -51 % | MM : -20 %;20;0;500
+5663842;0;Composant;1;Langue d'un Abishaii Bleu;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+5754855;0;Arme (1 main);1;Gourdin;des Enragés et de l'Aigle;ATT : -1\+2 | ESQ : -1 | DEG : +2\+1 | Vue : +1;12.5;0;99999
+5697306;0;Composant;1;Tripes d'un Trancheur;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+5703778;0;Composant;1;Os d'un Cheval à Dents de Sabre;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+1556271;0;Arme (1 main);1;Fouet;de la Salamandre;ATT : +4 | DEG : -2 | REG : +1;7.5;0;99999
+5650978;0;Composant;1;Aile d'un Abishaii Rouge;de Qualité Très Bonne [Membre];Spécial;0.5;0;99999
+5744436;0;Composant;1;Viscères d'un Crasc Médius;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+5720338;0;Composant;1;Os d'un Shai;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+5720337;0;Casque;1;Casque en cuir;;Armure : +1 | RM : +10 %;5;0;150
+5727295;0;Composant;1;Tripes d'un Yuan-ti;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+5647868;0;Composant;1;Cuisse d'un Titan;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+5667779;0;Composant;1;Aile d'un Abishaii Bleu;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+5709159;0;Composant;1;Croc d'un Shai;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+5700827;0;Composant;1;Crin d'un Cheval à Dents de Sabre;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+5285914;0;Composant;1;Griffe d'un Shai;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+3714567;0;Composant;1;Coeur d'un Mégacéphale;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+5110277;0;Armure;1;Armure de bois;;ESQ : -3 | Armure : +5 | RM : +50 %;50;0;400
+5774136;0;Composant;1;Pattes d'un Essaim Sanguinaire;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+5739474;0;Composant;1;Oeil d'un Titan;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+5772544;0;Composant;1;Dards d'un Essaim Sanguinaire;de Qualité Mauvaise [Spécial];Spécial;0.5;0;99999
+5761608;0;Composant;1;Patte d'une Coccicruelle;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+5722586;0;Composant;1;Oeil d'un Abishaii Vert;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+5718578;0;Composant;1;Cervelle d'un Shai;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+5788633;0;Arme (1 main);1;Gourdin clouté;;ATT : -1 | DEG : +3;15;0;220
+5783655;0;Arme (1 main);1;Gantelet;des Tortues;ATT : -2 | ESQ : +1 | DEG : +1 | TOUR : +30 min | Armure : +2\+2;7.5;0;99999
+5735921;0;Composant;1;Os d'un Grylle;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+5777654;0;Composant;1;Mandibule d'une Coccicruelle;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+5777653;0;Bouclier;1;Bouclier à Pointes;;ATT : +1 | ESQ : -1 | DEG : +1 | Armure : +4;35;0;450
+5775947;0;Composant;1;Croc d'un Carnosaure;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+6093193;0;Composant;1;Os d'une Sorcière;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+5783656;0;Composant;1;Oeil d'un Glouton;de Qualité Très Bonne [Tête];Spécial;0.5;0;99999
+5769135;0;Composant;1;Ailes d'un Essaim Sanguinaire;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+5771231;0;Composant;1;Pattes d'un Essaim Sanguinaire;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+5716613;0;Composant;1;Patte d'un Palefroi Infernal;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+5672648;0;Composant;1;Patte d'un Cheval à Dents de Sabre;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+6121785;0;Composant;1;Os d'un Cheval à Dents de Sabre;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+5676933;0;Composant;1;Peau d'un Carnosaure;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+6163629;0;Bouclier;1;Gros'Porte;;ESQ : -1 | Armure : +5 | RM : +11 %;50;0;500
+6098745;0;Composant;1;Tripes d'un Shai;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+6192800;0;Arme (2 mains);1;Hache de guerre en os;des Cyclopes;ATT : -4\+1 | DEG : +6\+1 | Vue : -1;25;0;99999
+5788635;0;Composant;1;Cervelle d'un Palefroi Infernal;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+6110999;0;Composant;1;Dent d'un Chonchon;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+6110998;0;Casque;1;Cagoule;des Tortues;ESQ : +1 | Vue : -1 | TOUR : +30 min | Armure : +0\+2 | MM : +6 %;2.5;0;99999
+5692989;0;Composant;1;Oeil d'un Cheval à Dents de Sabre;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+5657136;0;Composant;1;Viscères d'un Crasc Médius;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+5711604;0;Composant;1;Tripes d'un Shai;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+6169661;0;Armure;1;Cuirasse d'écailles;;ESQ : -3 | Armure : +6 | RM : +46 %;60;0;400
+6157058;0;Composant;1;Croc d'une Marilith;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+5710666;0;Parchemin;1;Rune des Foins;;DEG : -2 D3 | Vue : -1 | PV : -2 D3;2.5;0;50
+6151011;0;Composant;1;Gueule d'un Grylle;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+5716612;0;Parchemin;1;Rune des Foins;;DEG : -1 D3 | Vue : -1 | PV : -2 D3;2.5;0;50
+5774135;0;Carte;1;Carte des Raccourcis :;Croisée des cavernes;Spécial;2.5;0;99999
+6098744;0;Carte;1;Carte des Raccourcis :;Sanctuaire;Spécial;2.5;0;99999
+5482579;0;Parchemin;1;Idées Confuses;;ATT : -3 D3 | TOUR : +90 min;2.5;0;50
+6188719;0;Composant;1;Tripes d'un Effrit;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+6276604;0;Composant;1;Bras d'un Géant de Pierre;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+6262147;0;Parchemin;1;Rune des Foins;;DEG : -2 D3 | Vue : -1 | PV : -2 D3;2.5;0;50
+6129221;0;Parchemin;1;Rune des Cyclopes;;ATT : +1 D3 | DEG : +1 D3 | Vue : -1;2.5;0;60
+6174858;0;Composant;1;Venin d'un Nécrochore;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+5716610;0;Potion;1;Dover Powa;;RM : -14 % | MM : +12 %;5;0;50
+4041414;0;Composant;1;Os d'un Basilisk;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+3604467;0;Composant;1;Sang d'un Shai;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3408964;0;Bouclier;1;Bouclier à Pointes;du Roc;ATT : +1 | ESQ : -2 | DEG : +1 | Armure : +4\+1;35;0;99999
+6195659;0;Composant;1;Croc d'un Nécrochore;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+6360510;0;Composant;1;Racine d'un Tubercule Tueur;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+6349644;0;Composant;1;Peau d'un Anaconda des Catacombes;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+6359638;0;Composant;1;Ailes d'une Nuée de Vermine;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+6199953;0;Composant;1;Aile d'un Abishaii Bleu;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+6328506;0;Composant;1;Tubercule d'un Tubercule Tueur;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+6273547;0;Composant;1;Langue d'un Goblours;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+6323919;0;Composant;1;Cervelle d'un Rat Géant;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+6357104;0;Composant;1;Graine d'un Tubercule Tueur;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+6334716;0;Composant;1;Dent d'un Tutoki;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+6347999;0;Composant;1;Oeil d'un Basilisk;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+6330226;0;Composant;1;Fourrure d'un Ours-Garou;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+6198684;0;Composant;1;Sang d'un Grylle;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+6279513;0;Composant;1;Main Délicate d'une Succube;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+6192801;0;Composant;1;Lymphe d'un Foudroyeur;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+6366173;0;Composant;1;Chapeau d'un Fungus Géant;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+6266271;0;Composant;1;Cuisse d'un Ours-Garou;de Qualité Très Bonne [Membre];Spécial;0.5;0;99999
+6362903;0;Composant;1;Cervelle d'un Molosse Satanique;de Qualité Très Bonne [Tête];Spécial;0.5;0;99999
+6191886;0;Composant;1;Cuir d'un Crasc Maexus;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+5921559;0;Bouclier;1;Bouclier à Pointes;;ATT : +1 | ESQ : -1 | DEG : +1 | Armure : +4;35;0;450
+5665575;0;Composant;1;Cervelle d'un Goblin;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+6445842;0;Talisman;1;Talisman de pierre;;REG : -1 | RM : +12 % | MM : +16 %;2.5;0;150
+6394124;0;Composant;1;Ongle d'un Géant des Gouffres;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+5785932;0;Casque;1;Casque en métal;;Vue : -1 | Armure : +2 | RM : +10 %;10;0;200
+6458721;0;Arme (1 main);1;Lame en pierre;;ATT : -2 | DEG : +4;20;0;250
+5608087;0;Composant;1;Queue d'une Cockatrice;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+6157747;0;Armure;1;Pagne en Cuir;;ESQ : +2 | Armure : -1;5;0;100
+6434775;0;Talisman;1;Talisman d'Obsidienne;;ATT : +1 | DEG : +2 | REG : -4 | RM : +36 % | MM : +34 %;2.5;0;99999
+6471139;0;Composant;1;Biceps Saillant d'un Incube;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+6512905;0;Composant;1;Patte d'un Cheval à Dents de Sabre;de Qualité Très Bonne [Membre];Spécial;0.5;0;99999
+6413770;0;Composant;1;Croc d'un Carnosaure;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+6438480;0;Composant;1;Sang d'un Abishaii Vert;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+2918887;0;Talisman;1;Talisman d'Obsidienne;;ATT : +1 | DEG : +2 | REG : -4 | RM : +26 % | MM : +32 %;2.5;0;99999
+6514919;0;Composant;1;Cervelle d'un Palefroi Infernal;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+2437025;0;Composant;1;Bulbe d'un Fungus Violet;de Qualité Moyenne [Spécial];Spécial;0.5;0;99999
+6445843;0;Talisman;1;Collier de pierre;;RM : +6 % | MM : +10 %;2.5;0;75
+6051691;0;Composant;1;Bras d'un Loup-Garou;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+6383977;0;Composant;1;Oreille d'un Gremlins;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+6398278;0;Composant;1;Oeil d'un Shai;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+6250521;0;Potion;1;Elixir de Longue-Vue;;Vue : +5;5;0;15
+5068841;0;Potion;1;PufPuff;;Vue : -1 | Effet de Zone;5;0;30
+992025;0;Composant;1;Main d'un Diablotin;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+1549178;0;Parchemin;1;Rune des Cyclopes;;ATT : +2 D3 | DEG : +2 D3 | Vue : -2;2.5;0;60
+6236075;0;Potion;1;PufPuff;;ATT : -2 D3 | ESQ : -2 D3 | Vue : -3 | PV : -2 D3 | Effet de Zone;5;0;50
+5662709;0;Composant;1;Peau d'un Bondin;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+1197669;0;Composant;1;Tripes d'un Basilisk;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+1163172;0;Composant;1;Griffe d'un Pseudo-Dragon;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+6458513;0;Potion;1;Extrait de DjhinTonik;;DEG : +1 D3 | REG : +1 | PV : +2 D3;5;0;50
+5692469;0;Composant;1;Bras d'un Homme-Lézard;de Qualité Très Mauvaise [Membre];Spécial;0.5;0;99999
+5446275;0;Armure;1;Tunique d'écailles;de Résistance;ESQ : -1 | Armure : +3\+1 | RM : +18 %;30;0;99999
+4119307;0;Potion;1;Métomol;;TOUR : -10 min | Armure : -2;5;0;25
+961921;0;Composant;1;Os d'une Méduse;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+3589184;0;Potion;1;Sang de Toh Réroh;;ATT : +1 D3 | ESQ : +1 D3;5;0;50
+4446115;0;Potion;1;PufPuff;;Vue : -1 | Effet de Zone;5;0;30
+3828296;0;Composant;1;Patte d'un Worg;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+5921535;0;Composant;1;Queue d'un Gnu Sauvage;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+3455626;0;Parchemin;1;Rune des Cyclopes;;ATT : +1 D3 | DEG : +1 D3 | Vue : -1;2.5;0;60
+5738352;0;Parchemin;1;Rune Explosive;;PV : -2 D3 | Effet de Zone;2.5;0;40
+1161609;0;Composant;1;Ailes d'une Nuée de Vermine;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+5470231;0;Composant;1;Chapeau d'un Fungus Géant;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+5634877;0;Composant;1;Bras d'un Ettin;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+5446276;0;Composant;1;Patte d'un Thri-kreen;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+5178570;0;Potion;1;Elixir de Fertilité;;ATT : +3 D3 | DEG : +3 D3;5;0;50
+6026454;0;Composant;1;Os d'un Basilisk;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+6181117;0;Composant;1;Thorax d'une Nuée de Vermine;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+5809699;0;Composant;1;Coeur d'un Champi-Glouton;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+5843992;0;Composant;1;Poil d'un Goblin;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+5796751;0;Composant;1;Coeur d'un Kobold;de Qualité Très Mauvaise [Corps];Spécial;0.5;0;99999
+6465085;0;Casque;1;Turban;;RM : +19 %;2.5;0;50
+5993283;0;Composant;1;Patte d'un Monstre Rouilleur;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+5992785;0;Talisman;1;Collier à Pointes;;ESQ : -1 | DEG : +1 | Armure : +1;2.5;0;100
+6040969;0;Composant;1;Sang d'un Orque;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+6445844;0;Composant;1;Os d'un Grylle;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4803329;0;Composant;1;Queue d'un Rat Géant;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+6092143;0;Composant;1;Oeil d'un Scorpion Géant;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+5677676;0;Composant;1;Dent d'un Goblin;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+6498432;0;Carte;1;Carte des Raccourcis :;Rocher;Spécial;2.5;0;99999
+4803331;0;Composant;1;Tripes d'un Goblin;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+5655740;0;Parchemin;1;Rune des Cyclopes;;ATT : +2 D3 | DEG : +2 D3 | Vue : -2;2.5;0;60
+6500610;0;Parchemin;1;Plan Génial;;ATT : +2 D3 | DEG : +2 D3 | TOUR : -30 min;2.5;0;60
+6021155;0;Composant;1;Mucus d'une Limace Géante;de Qualité Très Mauvaise [Spécial];Spécial;0.5;0;99999
+6032533;0;Composant;1;Tripes d'une Manticore;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+6157748;0;Composant;1;Patte d'un Sagouin;de Qualité Très Mauvaise [Membre];Spécial;0.5;0;99999
+1029563;0;Composant;1;Griffe d'un Ours-Garou;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+6137985;0;Composant;1;Cuir d'un Crasc;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+1040182;0;Composant;1;Oeil Langoureux d'une Succube;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+6413863;0;Composant;1;Coeur d'une Erinyes;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+6044119;0;Champignon;1;Horreur Des Prés;Acide;Spécial;0.5;0;99999
+4453689;0;Champignon;1;Pied Jaune;Acide;Spécial;0.5;0;99999
+5794980;0;Composant;1;Pied d'un Fungus Violet;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+5558222;0;Composant;1;Langue d'un Tutoki;de Qualité Très Mauvaise [Tête];Spécial;0.5;0;99999
+5795952;0;Composant;1;Os d'un Yéti;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+5374245;0;Composant;1;Coeur d'un Goblin;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+5908792;0;Composant;1;Queue d'une Cockatrice;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+6528471;0;Composant;1;Croc d'un Shai;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+4888867;0;Composant;1;Doigt d'un Tutoki;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+6479575;0;Composant;1;Sang d'un Trancheur;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+3393500;0;Composant;1;Queue d'un Rat-Garou;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+6137183;0;Composant;1;Crochet d'un Anaconda des Catacombes;de Qualité Très Mauvaise [Spécial];Spécial;0.5;0;99999
+5229139;0;Composant;1;Doigt d'un Goblin;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+5593739;0;Composant;1;Oeil d'un Fungus Géant;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+5870781;0;Composant;1;Trompe d'une Strige;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+6479573;0;Potion;1;Métomol;;TOUR : -20 min | Armure : -4;5;0;50
+6133471;0;Composant;1;Cuir d'un Crasc;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+6404944;0;Composant;1;Peau d'un Shai;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+6629868;0;Composant;1;Sang d'un Shai;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+6608954;0;Composant;1;Patte d'un Palefroi Infernal;de Qualité Bonne [Membre];Spécial;0.5;0;99999
+6588879;0;Composant;1;Cervelle d'une Marilith;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+6600454;0;Arme (1 main);1;Grosse racine;;ATT : -1 | DEG : +3 | RM : +6 %;20;0;250
+6588878;0;Arme (1 main);1;Masse d'Arme;;ATT : -1 | DEG : +3;15;0;250
+6450990;0;Composant;1;Patte d'un Ankheg;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+6528470;0;Arme (1 main);1;Grosse racine;;ATT : -1 | DEG : +3 | RM : +10 %;20;0;250
+6613984;0;Composant;1;Crin d'un Cheval à Dents de Sabre;de Qualité Bonne [Spécial];Spécial;0.5;0;99999
+6645201;0;Bottes;1;Jambières en cuir;;Armure : +1 | RM : +9 %;10;0;100
+6638601;0;Composant;1;Dent d'un Chonchon;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+5022784;0;Armure;1;Cuir Bouilli;de Feu;ESQ : -1 | DEG : +0\+1 | Armure : +3 | RM : +26 %;17.5;0;99999
+6526493;0;Composant;1;Cervelle d'un Ashashin;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+6498433;0;Arme (1 main);1;Gourdin;;ATT : -1 | DEG : +2;12.5;0;200
+6629867;0;Armure;1;Haubert d'écailles;;ESQ : -4 | Armure : +8 | RM : +72 %;80;0;750
+6564166;0;Composant;1;Os d'un Abishaii Bleu;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+6665212;0;Composant;1;Cuisse d'un Boggart;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+6561015;0;Potion;1;Sinne Khole;;RM : +36 % | MM : -39 %;5;0;40
+6662193;0;Composant;1;Bras d'un Ogre;de Qualité Très Mauvaise [Membre];Spécial;0.5;0;99999
+6663849;0;Composant;1;Cervelle d'un Ogre;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+6663848;0;Arme (1 main);1;Gourdin;;ATT : -1 | DEG : +2;12.5;0;200
+6578333;0;Potion;1;Sinne Khole;;RM : +45 % | MM : -60 %;5;0;40
+6601967;0;Arme (1 main);1;Torche;;ATT : +1 | DEG : +1 | Vue : +1;7.5;0;300
+6587525;0;Composant;1;Jambe d'un Yéti;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+6578334;0;Composant;1;Cervelle d'une Manticore;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+6640529;0;Composant;1;Fourrure d'un Yéti;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+6587524;0;Armure;1;Armure de Cuir;;Armure : +2 | RM : +16 %;10;0;250
+5073295;0;Composant;1;Langue d'un Molosse Satanique;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+1384134;0;Casque;1;Lorgnons;;ESQ : -1 | Vue : +1 | MM : +10 %;2.5;0;150
+6683835;0;Composant;1;Langue d'un Sagouin;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+1260065;0;Talisman;1;Collier à Pointes;;ESQ : -1 | DEG : +1 | Armure : +1;2.5;0;100
+4373745;0;Bottes;1;Jambières en os;;ESQ : -1 | Armure : +2 | RM : +10 %;10;0;150
+5437011;0;Composant;1;Griffe d'un Behir;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+3955753;0;Composant;1;Langue d'une Méduse;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+6149015;0;Composant;1;Chapeau d'un Fungus Géant;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+5112053;0;Champignon;1;Girolle Sanglante;Sucré;Spécial;0.5;0;99999
+5122221;0;Champignon;1;Girolle Sanglante;Mielleux;Spécial;0.5;0;99999
+6291994;0;Casque;1;Turban;;RM : +16 %;2.5;0;50
+4136374;0;Champignon;1;Pied Jaune;Sucré;Spécial;0.5;0;99999
+6291995;0;Composant;1;Coeur d'un Tigre-Garou;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+4740727;0;Champignon;1;Fungus Rampant;Mielleux;Spécial;0.5;0;99999
+3291215;0;Champignon;1;Agaric Sous-Terrain;Sucré;Spécial;0.5;0;99999
+2852109;0;Champignon;1;Bolet Péteur;Sucré;Spécial;0.5;0;99999
+3648146;0;Champignon;1;Phytomassus Xilénique;Mielleux;Spécial;0.5;0;99999
+4738987;0;Champignon;1;Fungus Rampant;Sucré;Spécial;0.5;0;99999
+3473186;0;Champignon;1;Horreur Des Prés;Sucré;Spécial;0.5;0;99999
+4136373;0;Champignon;1;Pied Jaune;Sucré;Spécial;0.5;0;99999
+3705421;0;Champignon;1;Cèpe Lumineux;Mielleux;Spécial;0.5;0;99999
+3705417;0;Champignon;1;Cèpe Lumineux;Mielleux;Spécial;0.5;0;99999
+3677419;0;Champignon;1;Phytomassus Xilénique;Mielleux;Spécial;0.5;0;99999
+3970674;0;Champignon;1;Suinte Cadavre;Sucré;Spécial;0.5;0;99999
+5059561;0;Composant;1;Jambe d'un Tigre-Garou;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+4430988;0;Composant;1;Tripes d'un Hurleur;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+6636567;0;Armure;1;Armure de Cuir;;Armure : +2 | RM : +17 %;10;0;200
+4569289;0;Arme (2 mains);1;Baton Lesté;de Feu;ATT : +2 | DEG : -1\+1;7.5;0;99999
+6000171;0;Composant;1;Gueule d'un Grylle;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+4563621;0;Composant;1;Mandibule d'une Mante Fulcreuse;de Qualité Mauvaise [Tête];Spécial;0.5;0;99999
+4706649;0;Arme (1 main);1;Dague;;DEG : +1;5;0;150
+2903243;0;Armure;1;Armure de bois;de Feu;ESQ : -3 | DEG : +0\+1 | Armure : +5 | RM : +35 %;50;0;99999
+4706650;0;Composant;1;Dent d'un Rat-Garou;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+5840033;0;Armure;1;Fourrures;;Armure : +2 | RM : +21 %;15;0;200
+1739936;0;Composant;1;Dent d'un Caillouteux;de Qualité Bonne [Tête];Spécial;0.5;0;99999
+2306731;0;Talisman;1;Collier de pierre;;RM : +9 % | MM : +6 %;2.5;0;75
+6649500;0;Composant;1;Tripes d'un Gremlins;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+4785314;0;Composant;1;Patte d'une Ombre de Roches;de Qualité Très Bonne [Membre];Spécial;0.5;0;99999
+4424693;0;Composant;1;Tripes d'une Erinyes;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+5810947;0;Arme (2 mains);1;Baton Lesté;;ATT : +2 | DEG : -1;7.5;0;200
+4569290;0;Composant;1;Doigt d'un Yéti;de Qualité Mauvaise [Membre];Spécial;0.5;0;99999
+4744347;0;Composant;1;Fourrure d'un Loup-Garou;de Qualité Moyenne [Corps];Spécial;0.5;0;99999
+6561016;0;Composant;1;Sang d'un Abishaii Bleu;de Qualité Mauvaise [Corps];Spécial;0.5;0;99999
+6328505;0;Potion;1;Sang de Toh Réroh;;ATT : +2 D3 | ESQ : +2 D3;5;0;75
+6174857;0;Parchemin;1;Rune des Cyclopes;;ATT : +2 D3 | DEG : +2 D3 | Vue : -2;2.5;0;60
+6627620;0;Composant;1;Oeil d'un Trancheur;de Qualité Moyenne [Tête];Spécial;0.5;0;99999
+6717300;0;Parchemin;1;Rune des Cyclopes;;ATT : +4 D3 | DEG : +4 D3 | Vue : -4;2.5;0;80
+6402297;0;Potion;1;Sang de Toh Réroh;;ATT : +2 D3 | ESQ : +2 D3;5;0;75
+5672647;0;Potion;1;Elixir de Fertilité;;ATT : +3 D3 | DEG : +3 D3;5;0;50
+6622411;0;Composant;1;Patte d'un Cheval à Dents de Sabre;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+6819095;0;Casque;1;Cagoule;;ESQ : +1 | Vue : -1 | MM : +8 %;2.5;0;75
+6819096;0;Composant;1;Sang d'un Champi-Glouton;de Qualité Bonne [Corps];Spécial;0.5;0;99999
+2932186;0;Talisman;1;Torque de pierre;;REG : -2 | RM : +22 % | MM : +22 %;2.5;0;99999
+3955406;0;Arme (1 main);1;Crochet;;ATT : -2 | DEG : +3;12.5;0;200
+6683834;0;Arme (1 main);1;Gourdin;;ATT : -1 | DEG : +2;12.5;0;200
+3591769;0;Armure;1;Tunique;;ESQ : +1 | RM : +10 % | MM : +10 %;2.5;0;100
+6840303;0;Potion;1;Sinne Khole;;RM : +95 % | MM : -100 %;5;0;100
+6848341;0;Parchemin;1;Traité de Clairvoyance;;Vue : +1 | TOUR : -30 min;2.5;0;70
+6848342;0;Composant;1;Peau d'une Momie;de Qualité Très Bonne [Corps];Spécial;0.5;0;99999
+6840304;0;Composant;1;Main d'une Momie;de Qualité Moyenne [Membre];Spécial;0.5;0;99999
+6664958;0;Armure;1;Cuir Bouilli;;ESQ : -1 | Armure : +3 | RM : +24 %;17.5;0;300
+6912834;0;Composant;1;Griffe d'un Gremlins;de Qualité Moyenne [Membre];Spécial;0.5;-1;0
+6887644;0;Composant;1;Doigt d'un Gremlins;de Qualité Bonne [Membre];Spécial;0.5;-1;0
+6887643;0;Parchemin;1;Rune des Cyclopes;;ATT : +1 D3 | DEG : +1 D3 | Vue : -1;2.5;-1;0
+6704883;0;Composant;1;Mycélium d'un Fungus Géant;de Qualité Moyenne [Spécial];Spécial;0.5;-1;0
+6919536;0;Composant;1;Main décharnée d'un Chevalier du Chaos;de Qualité Moyenne [Membre];Spécial;0.5;-1;0
+6222643;0;Potion;1;Elixir de Corruption;;ATT : +3 D3 | ESQ : -3 D3 | DEG : +3 D3 | REG : -3 | Vue : -3 | Armure : +3;5;-1;0
+6935661;0;Composant;1;Oeil d'un Thri-kreen;de Qualité Moyenne [Tête];Spécial;0.5;-1;0
+6996395;0;Potion;1;Elixir de Feu;;ESQ : +4 D3 | Vue : +4;5;-1;0
+6857165;0;Potion;1;Essence de KouleMann;;REG : +1 | Vue : +1;5;-1;0
+6911335;0;Parchemin;1;Traité de Clairvoyance;;Vue : +2 | TOUR : -60 min;2.5;-1;0
+7061491;0;Potion;1;Dover Powa;;RM : -15 % | MM : +19 %;5;-1;0
+6465157;0;Composant;1;Sang d'un Naga;de Qualité Moyenne [Corps];Spécial;0.5;-1;0
+6772764;0;Composant;1;Peau d'un Anaconda des Catacombes;de Qualité Moyenne [Corps];Spécial;0.5;-1;0
+6889202;0;Potion;1;Jus de Chronomètre;;TOUR : -30 min;5;-1;0
+6996396;0;Composant;1;Morceau de Tripe d'un Croquemitaine;de Qualité Très Mauvaise [Corps];Spécial;0.5;-1;0
+6889203;0;Composant;1;Poil d'un Minotaure;de Qualité Mauvaise [Corps];Spécial;0.5;-1;0
+6814268;0;Potion;1;Extrait du Glacier;;REG : +3 | Armure : +3;5;-1;0
+6804309;0;Composant;1;Langue d'une Harpie;de Qualité Mauvaise [Tête];Spécial;0.5;-1;0
+6822284;0;Composant;1;Tripes d'une Limace Géante;de Qualité Mauvaise [Corps];Spécial;0.5;-1;0
+6940766;0;Potion;1;Sinne Khole;;RM : +11 % | MM : -19 %;5;-1;0
+6857166;0;Composant;1;Cervelle d'un Rat Géant;de Qualité Bonne [Tête];Spécial;0.5;-1;0
+6911336;0;Composant;1;Queue d'un Crasc;de Qualité Bonne [Membre];Spécial;0.5;-1;0
+6830877;0;Potion;1;Sinne Khole;;RM : +68 % | MM : -80 %;5;-1;0
+6230128;0;Potion;1;Métomol;;TOUR : -40 min | Armure : -8;5;-1;0
+7087462;0;Composant;1;Patte d'un Tertre Errant;de Qualité Moyenne [Membre];Spécial;0.5;-1;0
+7087460;0;Potion;1;Rhume en Conserve;;ATT : -2 D3 | ESQ : -2 D3 | DEG : -2 D3 | REG : -2;5;-1;0
+6230129;0;Composant;1;Sang d'un Tutoki;de Qualité Mauvaise [Corps];Spécial;0.5;-1;0
+6800583;0;Potion;1;Rhume en Conserve;;ATT : -1 D3 | ESQ : -1 D3 | DEG : -1 D3 | REG : -1;5;-1;0
+7077151;0;Bouclier;1;Bouclier à Pointes;;ATT : +1 | ESQ : -1 | DEG : +1 | Armure : +4;35;-1;0
+6917867;0;Armure;1;Cuirasse d'écailles;;ESQ : -3 | Armure : +6 | RM : +46 %;60;-1;0
+5071363;0;Composant;1;Langue d'une Harpie;de Qualité Bonne [Tête];Spécial;0.5;-1;0
+5255145;0;Arme (1 main);1;Grosse racine;;ATT : -1 | DEG : +3 | RM : +6 %;20;-1;0
+4444299;0;Arme (1 main);1;Coutelas d'Obsidienne;;ATT : +2 | DEG : +2 | REG : -2 | RM : -8 % | MM : -28 %;5;-1;0
+5343519;0;Arme (1 main);1;Coutelas d'Obsidienne;;ATT : +2 | DEG : +2 | REG : -2 | RM : -8 % | MM : -28 %;5;-1;0
+5619354;0;Bottes;1;Bottes;;ESQ : +2;5;-1;0
+4686810;0;Bottes;1;Bottes;;ESQ : +2;5;-1;0
+1276034;0;Talisman;1;Collier à Pointes;;ESQ : -1 | DEG : +1 | Armure : +1;2.5;-1;0
+5524541;0;Arme (1 main);1;Lame en pierre;;ATT : -2 | DEG : +4;20;-1;0
+4667162;0;Talisman;1;Talisman d'Obsidienne;;ATT : +1 | DEG : +2 | REG : -4 | RM : +40 % | MM : +22 %;2.5;-1;0
+5245688;0;Talisman;1;Gorgeron en cuir;;Armure : +1;2.5;-1;0
+4416722;0;Talisman;1;Collier à Pointes;;ESQ : -1 | DEG : +1 | Armure : +1;2.5;-1;0
+4898418;0;Bottes;1;Jambières en cuir;;Armure : +1 | RM : +6 %;10;-1;0
+5351810;0;Arme (2 mains);1;Hache de guerre en pierre;;ATT : -10 | DEG : +14 | RM : +6 %;75;-1;0
+5630691;0;Bottes;1;Jambières en os;;ESQ : -1 | Armure : +2 | RM : +7 %;10;-1;0
+1027914;0;Arme (1 main);1;Fouet;;ATT : +4 | DEG : -2;7.5;-1;0
+558196;0;Arme (1 main);1;Torche;;ATT : +1 | DEG : +1 | Vue : +1;7.5;-1;0
+4677412;0;Arme (1 main);1;Grosse racine;;ATT : -1 | DEG : +3 | RM : +8 %;20;-1;0
+4964348;0;Arme (1 main);1;Coutelas en os;;DEG : +1;4;-1;0
+3494229;0;Arme (1 main);1;Torche;;ATT : +1 | DEG : +1 | Vue : +1;7.5;-1;0
+5360559;0;Arme (1 main);1;Crochet;;ATT : -2 | DEG : +3;12.5;-1;0
+3055461;0;Arme (1 main);1;Torche;;ATT : +1 | DEG : +1 | Vue : +1;7.5;-1;0
+4427572;0;Arme (2 mains);1;Baton Lesté;;ATT : +2 | DEG : -1;7.5;-1;0
+2598456;0;Arme (1 main);1;Fouet;;ATT : +4 | DEG : -2;7.5;-1;0
+2337817;0;Arme (1 main);1;Coutelas d'Obsidienne;;ATT : +2 | DEG : +2 | REG : -2 | RM : -8 % | MM : -28 %;5;-1;0
+5123595;0;Arme (2 mains);1;Bâtons de Parade;;ATT : -4 | ESQ : +2 | Armure : +2;7.5;-1;0
+4761150;0;Armure;1;Tunique;;ESQ : +1 | RM : +10 % | MM : +8 %;2.5;-1;0
+4857527;0;Arme (2 mains);1;Hache de guerre en os;;ATT : -4 | DEG : +6;25;-1;0
+5369044;0;Arme (2 mains);1;Baton Lesté;;ATT : +2 | DEG : -1;7.5;-1;0
+4318481;0;Casque;1;Turban;;RM : +17 %;2.5;-1;0
+4762184;0;Armure;1;Armure de Cuir;;Armure : +2 | RM : +17 %;10;-1;0
+3037175;0;Bouclier;1;Targe a rein;;ESQ : +1;5;-1;0
+4851355;0;Armure;1;Tunique;;ESQ : +1 | RM : +6 % | MM : +9 %;2.5;-1;0
+4121046;0;Arme (1 main);1;Machette;;ATT : +1 | ESQ : -1 | DEG : +2;20;-1;0
+5705367;0;Armure;1;Culotte en Cuir;;ESQ : +1;2.5;-1;0
+4365977;0;Arme (2 mains);1;Chaîne Cloutée;;ATT : -2 | ESQ : +1 | DEG : +4;35;-1;0
+4431023;0;Bottes;1;Sandales;;ESQ : +1;2.5;-1;0
+5526879;0;Arme (1 main);1;Lame en os;;DEG : +2;7.5;-1;0
+3031008;0;Bottes;1;Jambières en cuir;;Armure : +1 | RM : +6 %;10;-1;0
+3341495;0;Bottes;1;Jambières en fourrure;;Armure : +1 | RM : +10 %;2.5;-1;0
+4111486;0;Armure;1;Armure de peaux;;ESQ : -2 | Armure : +4 | RM : +36 %;45;-1;0
+4436953;0;Arme (1 main);1;Coutelas d'Obsidienne;;ATT : +2 | DEG : +2 | REG : -2 | RM : -7 % | MM : -16 %;5;-1;0
+4861298;0;Armure;1;Pagne de Mailles;;ESQ : +2 | Armure : +1;7.5;-1;0
+4819237;0;Arme (1 main);1;Gourdin clouté;;ATT : -1 | DEG : +3;15;-1;0
+5327576;0;Armure;1;Pagne en Cuir;;ESQ : +2 | Armure : -1;5;-1;0
+2684218;0;Bottes;1;Bottes;;ESQ : +2;5;-1;0
+4512251;0;Armure;1;Armure de bois;;ESQ : -3 | Armure : +5 | RM : +32 %;50;-1;0
+1074602;0;Bouclier;1;Rondache en bois;;ESQ : +1 | Armure : +1;15;-1;0
+3863171;0;Casque;1;Turban;;RM : +16 %;2.5;-1;0
+4831122;0;Arme (1 main);1;Lame d'Obsidienne;;ATT : +2 | DEG : +6 | REG : -3 | RM : -45 % | MM : -13 %;20;-1;0
+4858535;0;Armure;1;Pagne en Cuir;;ESQ : +2 | Armure : -1;5;-1;0
+3440793;0;Arme (1 main);1;Crochet;;ATT : -2 | DEG : +3;12.5;-1;0
+4717501;0;Armure;1;Tunique d'écailles;;ESQ : -1 | Armure : +3 | RM : +26 %;30;-1;0
+7351071;0;Armure;1;Armure de Cuir;;Armure : +2 | RM : +15 %;10;-1;0
+732966;0;Bouclier;1;Gros'Porte;;ESQ : -1 | Armure : +5 | RM : +11 %;50;-1;0
+4182155;0;Arme (2 mains);1;Grosse Stalagmite;;ATT : -20 | ESQ : -15 | DEG : +28 | Vue : -4;125;-1;0
+4897530;0;Arme (1 main);1;Boulet et chaîne;;ATT : -3 | DEG : +5;15;-1;0
+3603899;0;Armure;1;Armure d'Anneaux;;ESQ : -8 | Armure : +8 | RM : +144 %;80;-1;0
+2434545;0;Armure;1;Armure d'Anneaux;;ESQ : -8 | Armure : +8 | RM : +153 %;80;-1;0
+3372682;0;Arme (2 mains);1;Hache de guerre en pierre;;ATT : -10 | DEG : +14 | RM : +7 %;75;-1;0
+3809420;0;Arme (1 main);1;Dague;;DEG : +1;5;-1;0
+1688291;0;Armure;1;Armure de Cuir;;Armure : +2 | RM : +11 %;10;-1;0
+5050160;0;Arme (1 main);1;Lame en os;;DEG : +2;7.5;-1;0
+2941689;0;Bottes;1;Jambières en fourrure;;Armure : +1 | RM : +10 %;2.5;-1;0
+3462225;0;Bottes;1;Jambières en fourrure;;Armure : +1 | RM : +6 %;2.5;-1;0
+5851069;0;Arme (2 mains);1;Hache de guerre en os;;ATT : -4 | DEG : +6;25;-1;0
+4869161;0;Armure;1;Tunique;;ESQ : +1 | RM : +10 % | MM : +7 %;2.5;-1;0
+4507973;0;Casque;1;Casque en cuir;;Armure : +1 | RM : +10 %;5;-1;0
+4451373;0;Casque;1;Casque en cuir;;Armure : +1 | RM : +6 %;5;-1;0
+3354598;0;Arme (1 main);1;Coutelas d'Obsidienne;;ATT : +2 | DEG : +2 | REG : -2 | RM : -7 % | MM : -28 %;5;-1;0
+5665085;0;Armure;1;Armure de Cuir;;Armure : +2 | RM : +11 %;10;-1;0
+1999078;0;Bouclier;1;Rondache en bois;;ESQ : +1 | Armure : +1;15;-1;0
+5374547;0;Armure;1;Cuir Bouilli;;ESQ : -1 | Armure : +3 | RM : +34 %;17.5;-1;0
+#FIN GrandeTaniere 203597
+
+

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Canvas xmlns:mx="http://www.adobe.com/2006/mxml" show="{init()}"  verticalScrollPolicy="off">
+	<mx:Script>
+		<![CDATA[
+			import mx.rpc.events.FaultEvent;
+			import mx.controls.Alert;
+			import mx.rpc.events.ResultEvent;
+			import mx.collections.ArrayCollection;
+			
+			public var gridData:ArrayCollection = null;
+			
+			private function init():void{
+				if (gridData == null){
+					RSS.send();
+				}
+			}
+			
+			private function resultHandler(event:ResultEvent):void{
+				gridData = RSS.lastResult.champignons.element;
+				equipements.dataProvider = gridData;
+				setSearchFunction(searchData);
+				//Alert.show('Donnee des champignons transfere !!!!! ');
+			}
+
+			private function faultHandler(event:FaultEvent):void{
+				Alert.show('Fault !!!!! '+event.message);
+			}
+			
+			private function mySortCompareFunction(obj1:Object, obj2:Object):int{
+				var nom1:String = obj1.objet.nom;
+				var nom2:String = obj2.objet.nom;
+				var magie1:String = obj1.objet.magie;
+				var magie2:String = obj2.objet.magie;
+        		if (nom1 != null && nom2 != null) {
+        			if (nom1<nom2) {
+        				return -1;
+        			}
+        			if (nom1==nom2){
+        				if (magie1 != null && magie2 != null) {
+        					if (magie1<magie2){
+        						return -1;
+        					}
+        					if (magie1==magie2){
+        						return 0;
+        					}
+        					if (magie1>magie2){
+        						return 1;
+        					}
+        				}
+        				if (magie1 == null && magie2 != null){
+        					return -1;
+        				}
+        				if (magie1 != null && magie2 == null){
+        					return 1;
+        				}
+        				if (magie1 == null && magie2 == null){
+        					return 0;
+        				}
+        			}
+        			if (nom1>nom2) {
+        				return 1;
+        			}
+        		}
+        		if (nom1 == null && nom2 != null){
+        			return 1;
+        		}
+        		if (nom1 != null && nom2 == null){
+        			return -1;
+        		}
+        		return 0;       		
+			}
+			
+			// sets the filter function to dataprovider
+        	public function setSearchFunction(searchFunction:Function):void{
+            	gridData.filterFunction = searchFunction;
+        	}
+			
+			// fired on text change, returns the text typed
+        	public function getSearchText():String{
+           		return txtSearchLog.text;
+        	}
+			
+			// refreshed the dataprovider for the search
+       		private function searchLog():void{
+            	gridData.refresh();
+        	}
+			
+			// searches the data based on simle string search
+        	private function searchData(item: Object):Boolean{
+            	for(var i:int=0;i<equipements.columnCount;i++){
+                	if(item[equipements.columns[i].dataField] != null 
+                		&& typeof(item[equipements.columns[i].dataField])!="object"
+                		&& item[equipements.columns[i].dataField].toString().toLowerCase().indexOf(txtSearchLog.text.toLowerCase()) != -1){
+                    	return true;
+                	}else if (typeof(item[equipements.columns[i].dataField])=="object"){
+                		var nom:String = item[equipements.columns[i].dataField].nom;
+                		var magie:String = item[equipements.columns[i].dataField].magie;
+                		if (nom.toLowerCase().indexOf(txtSearchLog.text.toLowerCase()) != -1){
+                			return true;
+                		}else if (magie != null && magie.toLowerCase().indexOf(txtSearchLog.text.toLowerCase()) != -1){
+                			return true;
+                		}
+                	}
+            	}
+        		return false;
+    		}
+    			
+		]]>
+	</mx:Script>
+	
+	<mx:HTTPService id="RSS" url="http://192.168.1.6/MountyHall/serviceXML.php?champignon" 
+		result="resultHandler(event);" 
+		fault="faultHandler(event);"
+		resultFormat="object"
+		showBusyCursor="true"
+		method="GET"/>
+		
+	<mx:Panel id="champPanel" width="100%" height="100%" 
+		verticalScrollPolicy="off" 
+		borderThicknessTop="-5"
+		paddingLeft="10" paddingRight="10" paddingBottom="10">
+		<mx:VBox width="100%" height="100%" verticalGap="-5">	
+		<mx:HBox width="100%" height="10%" paddingLeft="5" paddingRight="5" paddingTop="10">
+			<mx:Label width="10%" text="Rechercher : " textAlign="left"/>
+			<mx:TextInput width="90%" change="searchLog()" id="txtSearchLog"/>
+		</mx:HBox>
+		<mx:DataGrid id="equipements" width="100%" height="90%">
+			<mx:columns>
+                <mx:DataGridColumn dataField="id" headerText="ID" width="4"/>
+                <!--<mx:DataGridColumn dataField="categorie" headerText="Categorie" width="4"/> -->
+                <mx:DataGridColumn dataField="objet" headerText="Nom" width="10" itemRenderer="myComponents.magieRenderer" sortCompareFunction="mySortCompareFunction">
+                	<!--<mx:itemRenderer>               		
+                		<mx:Component>   			
+                			<mx:Text text="{data.objet.nom} {data.objet.magie}"/>
+                		</mx:Component>
+                	</mx:itemRenderer> -->
+                </mx:DataGridColumn>
+                <!--<mx:DataGridColumn dataField="details" headerText="Détails" width="10"/> -->
+                <mx:DataGridColumn dataField="poids" headerText="Poids" width="4"/>
+                <mx:DataGridColumn dataField="prix" headerText="Prix" width="6"/>
+            </mx:columns>
+		</mx:DataGrid>
+		
+	</mx:VBox>	
+	</mx:Panel>
+</mx:Canvas>

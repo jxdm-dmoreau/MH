@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="vertical"
+	xmlns="myComponents.*">
+	
+	<mx:Style source="styleBlue.css"/>
+	<mx:VBox horizontalGap="100" width="800" height="700" verticalScrollPolicy="off">
+		<mx:Image id="logoImage" source="@Embed('logo_chien.jpg')"/>
+		
+		<mx:TabBar paddingBottom="-8" tabStyleName="myTabs">
+    		<mx:dataProvider>{compoPage}</mx:dataProvider>
+    	</mx:TabBar>
+    	
+		<mx:ViewStack id="compoPage" width="100%" height="100%" creationPolicy="all" selectedIndex="0"  verticalScrollPolicy="off">
+        	<Equipements id="compoEquip" label="Equipements" showEffect="WipeDown" hideEffect="WipeUp"/>
+        	<Composants id="compoCompo" label="Composants" showEffect="WipeDown" hideEffect="WipeUp"/>
+        	<Champignons id="compoChamp" label="Champignons" showEffect="WipeDown" hideEffect="WipeUp"/>
+        	<Parchemins id="compoParcho" label="Parchemins" showEffect="WipeDown" hideEffect="WipeUp"/>
+    	</mx:ViewStack>
+	</mx:VBox>
+
+	
+	
+	
+	
+</mx:Application>

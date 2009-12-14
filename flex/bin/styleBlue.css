@@ -1,0 +1,13 @@
+/* CSS file */
+Application {
+	backgroundColor: #ffffff;
+    backgroundGradientColors: #3399ff, #ffffff;
+    backgroundGradientAlphas: 0.5, 1;
+}
+
+.myTabs {
+	/*fillColors: #ffffff, #3399ff;*/
+    borderColor: #ffffff;
+
+}
+

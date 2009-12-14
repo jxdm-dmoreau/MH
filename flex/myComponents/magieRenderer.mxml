@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Canvas xmlns:mx="http://www.adobe.com/2006/mxml" horizontalScrollPolicy="off">
+	<mx:Script>
+		<![CDATA[
+			// Override the set method for the data property.
+            override public function set data(value:Object):void {
+				super.data = value;
+				var nom:String = data.objet.nom;
+				var magie:String = data.objet.magie;
+				if (magie==null){
+					nomComplet.text = nom;
+				}else {
+					nomComplet.htmlText = nom+" <b>"+magie+"</b>";
+				}
+				
+            }
+		]]>
+	</mx:Script>
+	<mx:Text id="nomComplet"/>
+</mx:Canvas>
